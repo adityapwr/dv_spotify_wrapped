@@ -1,0 +1,205 @@
+{
+  "items" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 464815
+    },
+    "genres" : [ "hindi indie", "indian indie", "indian singer-songwriter" ],
+    "href" : "https://api.spotify.com/v1/artists/4gdMJYnopf2nEUcanAwstx",
+    "id" : "4gdMJYnopf2nEUcanAwstx",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab6761610000e5eb724f08bfa57000ac31e466a3",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/ab67616100005174724f08bfa57000ac31e466a3",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/ab6761610000f178724f08bfa57000ac31e466a3",
+      "width" : 160
+    } ],
+    "name" : "Anuv Jain",
+    "popularity" : 66,
+    "type" : "artist",
+    "uri" : "spotify:artist:4gdMJYnopf2nEUcanAwstx"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 1018849
+    },
+    "genres" : [ "desi pop", "filmi", "indian singer-songwriter", "modern bollywood" ],
+    "href" : "https://api.spotify.com/v1/artists/74OaRjmyh0XyRZsQQQ5l7c",
+    "id" : "74OaRjmyh0XyRZsQQQ5l7c",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab6761610000e5ebbb02318fe3cd50485531c42c",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/ab67616100005174bb02318fe3cd50485531c42c",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/ab6761610000f178bb02318fe3cd50485531c42c",
+      "width" : 160
+    } ],
+    "name" : "Jasleen Royal",
+    "popularity" : 66,
+    "type" : "artist",
+    "uri" : "spotify:artist:74OaRjmyh0XyRZsQQQ5l7c"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 680809
+    },
+    "genres" : [ "folk-pop", "hindi indie", "indian singer-songwriter" ],
+    "href" : "https://api.spotify.com/v1/artists/0tC995Rfn9k2l7nqgCZsV7",
+    "id" : "0tC995Rfn9k2l7nqgCZsV7",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab6761610000e5ebe2e3c4e05f01d9edf0be79e9",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/ab67616100005174e2e3c4e05f01d9edf0be79e9",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/ab6761610000f178e2e3c4e05f01d9edf0be79e9",
+      "width" : 160
+    } ],
+    "name" : "Prateek Kuhad",
+    "popularity" : 63,
+    "type" : "artist",
+    "uri" : "spotify:artist:0tC995Rfn9k2l7nqgCZsV7"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 26885186
+    },
+    "genres" : [ "filmi", "modern bollywood" ],
+    "href" : "https://api.spotify.com/v1/artists/1mYsTxnqsietFxj1OgoGbG",
+    "id" : "1mYsTxnqsietFxj1OgoGbG",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab6761610000e5ebb19af0ea736c6228d6eb539c",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/ab67616100005174b19af0ea736c6228d6eb539c",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/ab6761610000f178b19af0ea736c6228d6eb539c",
+      "width" : 160
+    } ],
+    "name" : "A.R. Rahman",
+    "popularity" : 79,
+    "type" : "artist",
+    "uri" : "spotify:artist:1mYsTxnqsietFxj1OgoGbG"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 8935679
+    },
+    "genres" : [ "filmi", "indian instrumental", "modern bollywood" ],
+    "href" : "https://api.spotify.com/v1/artists/1wRPtKGflJrBx9BmLsSwlU",
+    "id" : "1wRPtKGflJrBx9BmLsSwlU",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab6761610000e5ebcb6926f44f620555ba444fca",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/ab67616100005174cb6926f44f620555ba444fca",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/ab6761610000f178cb6926f44f620555ba444fca",
+      "width" : 160
+    } ],
+    "name" : "Pritam",
+    "popularity" : 85,
+    "type" : "artist",
+    "uri" : "spotify:artist:1wRPtKGflJrBx9BmLsSwlU"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 3000473
+    },
+    "genres" : [ "desi pop", "filmi", "modern bollywood" ],
+    "href" : "https://api.spotify.com/v1/artists/6Mv8GjQa7LKUGCAqa9qqdb",
+    "id" : "6Mv8GjQa7LKUGCAqa9qqdb",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab6761610000e5eb90b6c3d093f9b02aad628eaf",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/ab6761610000517490b6c3d093f9b02aad628eaf",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/ab6761610000f17890b6c3d093f9b02aad628eaf",
+      "width" : 160
+    } ],
+    "name" : "Vishal-Shekhar",
+    "popularity" : 73,
+    "type" : "artist",
+    "uri" : "spotify:artist:6Mv8GjQa7LKUGCAqa9qqdb"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+    },
+    "followers" : {
+      "href" : null,
+      "total" : 64024115
+    },
+    "genres" : [ "desi pop", "filmi", "modern bollywood" ],
+    "href" : "https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw",
+    "id" : "4YRxDV8wJFPHPTeXepOstw",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab6761610000e5eb0261696c5df3be99da6ed3f3",
+      "width" : 640
+    }, {
+      "height" : 320,
+      "url" : "https://i.scdn.co/image/ab676161000051740261696c5df3be99da6ed3f3",
+      "width" : 320
+    }, {
+      "height" : 160,
+      "url" : "https://i.scdn.co/image/ab6761610000f1780261696c5df3be99da6ed3f3",
+      "width" : 160
+    } ],
+    "name" : "Arijit Singh",
+    "popularity" : 87,
+    "type" : "artist",
+    "uri" : "spotify:artist:4YRxDV8wJFPHPTeXepOstw"
+  } ],
+  "total" : 7,
+  "limit" : 50,
+  "offset" : 0,
+  "href" : "https://api.spotify.com/v1/me/top/artists?limit=50&offset=0&time_range=long_term",
+  "previous" : null,
+  "next" : null
+}

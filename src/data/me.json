@@ -1,0 +1,24 @@
+{
+  "country": "IN",
+  "display_name": "Ookyaa",
+  "email": "heyookyaa@gmail.com",
+  "explicit_content": {
+    "filter_enabled": false,
+    "filter_locked": false
+  },
+  "external_urls": {
+    "spotify": "https://open.spotify.com/user/8v0u78klat8yc3xwegutg83uw"
+  },
+  "followers": {
+    "href": null,
+    "total": 0
+  },
+  "href": "https://api.spotify.com/v1/users/8v0u78klat8yc3xwegutg83uw",
+  "id": "8v0u78klat8yc3xwegutg83uw",
+  "images": [],
+  "product": "open",
+  "type": "user",
+  "uri": "spotify:user:8v0u78klat8yc3xwegutg83uw"
+}
+
+

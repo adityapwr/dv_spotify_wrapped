@@ -1,0 +1,2653 @@
+{
+  "items" : [ {
+    "album" : {
+      "album_type" : "SINGLE",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
+        },
+        "href" : "https://api.spotify.com/v1/artists/465OXuCU8YZNmVG1leLwQ9",
+        "id" : "465OXuCU8YZNmVG1leLwQ9",
+        "name" : "Shashwat Sachdev",
+        "type" : "artist",
+        "uri" : "spotify:artist:465OXuCU8YZNmVG1leLwQ9"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3swccYkoyOPBv0fPMbf6I1"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3swccYkoyOPBv0fPMbf6I1",
+      "id" : "3swccYkoyOPBv0fPMbf6I1",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27344f0a4966df539c59e24aaa0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0244f0a4966df539c59e24aaa0",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485144f0a4966df539c59e24aaa0",
+        "width" : 64
+      } ],
+      "name" : "Sha- Dobara",
+      "release_date" : "2021-06-10",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:3swccYkoyOPBv0fPMbf6I1"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9"
+      },
+      "href" : "https://api.spotify.com/v1/artists/465OXuCU8YZNmVG1leLwQ9",
+      "id" : "465OXuCU8YZNmVG1leLwQ9",
+      "name" : "Shashwat Sachdev",
+      "type" : "artist",
+      "uri" : "spotify:artist:465OXuCU8YZNmVG1leLwQ9"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4kf4NJ3U6oSZ423DycBpMD"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4kf4NJ3U6oSZ423DycBpMD",
+      "id" : "4kf4NJ3U6oSZ423DycBpMD",
+      "name" : "Shreya Jain",
+      "type" : "artist",
+      "uri" : "spotify:artist:4kf4NJ3U6oSZ423DycBpMD"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 192540,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "FRX202131743"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/2ygS9eInDfG5prFbeeiEYC"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/2ygS9eInDfG5prFbeeiEYC",
+    "id" : "2ygS9eInDfG5prFbeeiEYC",
+    "is_local" : false,
+    "name" : "Sha- Dobara",
+    "popularity" : 49,
+    "preview_url" : "https://p.scdn.co/mp3-preview/318bed800f0a0d3ac92852190757502d60c8dbc7?cid=1513a3be19ae4bef880e12e35d995b13",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:2ygS9eInDfG5prFbeeiEYC"
+  }, {
+    "album" : {
+      "album_type" : "SINGLE",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6Mv8GjQa7LKUGCAqa9qqdb",
+        "id" : "6Mv8GjQa7LKUGCAqa9qqdb",
+        "name" : "Vishal-Shekhar",
+        "type" : "artist",
+        "uri" : "spotify:artist:6Mv8GjQa7LKUGCAqa9qqdb"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6nfjA6lMV1bnSfuC8v1ct3"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6nfjA6lMV1bnSfuC8v1ct3",
+      "id" : "6nfjA6lMV1bnSfuC8v1ct3",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273725d6fbcf599ebe254596bb0",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02725d6fbcf599ebe254596bb0",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851725d6fbcf599ebe254596bb0",
+        "width" : 64
+      } ],
+      "name" : "Jayeshbhai Jordaar",
+      "release_date" : "2022-04-25",
+      "release_date_precision" : "day",
+      "total_tracks" : 6,
+      "type" : "album",
+      "uri" : "spotify:album:6nfjA6lMV1bnSfuC8v1ct3"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6Mv8GjQa7LKUGCAqa9qqdb",
+      "id" : "6Mv8GjQa7LKUGCAqa9qqdb",
+      "name" : "Vishal-Shekhar",
+      "type" : "artist",
+      "uri" : "spotify:artist:6Mv8GjQa7LKUGCAqa9qqdb"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6CXEwIaXYfVJ84biCxqc9k",
+      "id" : "6CXEwIaXYfVJ84biCxqc9k",
+      "name" : "Vishal Dadlani",
+      "type" : "artist",
+      "uri" : "spotify:artist:6CXEwIaXYfVJ84biCxqc9k"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4xd7mLI7urqrxELaXhAvzw",
+      "id" : "4xd7mLI7urqrxELaXhAvzw",
+      "name" : "Shekhar Ravjiani",
+      "type" : "artist",
+      "uri" : "spotify:artist:4xd7mLI7urqrxELaXhAvzw"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0m3D4grap8VFSzbJMqgNVk",
+      "id" : "0m3D4grap8VFSzbJMqgNVk",
+      "name" : "Kumaar",
+      "type" : "artist",
+      "uri" : "spotify:artist:0m3D4grap8VFSzbJMqgNVk"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5vwmYR4hN6lASQJUMWPrEL"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5vwmYR4hN6lASQJUMWPrEL",
+      "id" : "5vwmYR4hN6lASQJUMWPrEL",
+      "name" : "Vayu",
+      "type" : "artist",
+      "uri" : "spotify:artist:5vwmYR4hN6lASQJUMWPrEL"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 166600,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "INY092200027"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/324Y55zUTRSMdtFwc91csa"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/324Y55zUTRSMdtFwc91csa",
+    "id" : "324Y55zUTRSMdtFwc91csa",
+    "is_local" : false,
+    "name" : "Firecracker",
+    "popularity" : 67,
+    "preview_url" : "https://p.scdn.co/mp3-preview/46a42d655a2b09a1ade208293ba080b31533b3d2?cid=1513a3be19ae4bef880e12e35d995b13",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:324Y55zUTRSMdtFwc91csa"
+  }, {
+    "album" : {
+      "album_type" : "ALBUM",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/58bPSgeKpyyFlJ9LatULIO"
+        },
+        "href" : "https://api.spotify.com/v1/artists/58bPSgeKpyyFlJ9LatULIO",
+        "id" : "58bPSgeKpyyFlJ9LatULIO",
+        "name" : "HARBOUR",
+        "type" : "artist",
+        "uri" : "spotify:artist:58bPSgeKpyyFlJ9LatULIO"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1FNraVqmo20A7u9b1Y7FcF"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1FNraVqmo20A7u9b1Y7FcF",
+      "id" : "1FNraVqmo20A7u9b1Y7FcF",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273c860a90a9b477ee1f808e165",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02c860a90a9b477ee1f808e165",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851c860a90a9b477ee1f808e165",
+        "width" : 64
+      } ],
+      "name" : "Thoughts on Letting Go",
+      "release_date" : "2019-09-02",
+      "release_date_precision" : "day",
+      "total_tracks" : 11,
+      "type" : "album",
+      "uri" : "spotify:album:1FNraVqmo20A7u9b1Y7FcF"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/58bPSgeKpyyFlJ9LatULIO"
+      },
+      "href" : "https://api.spotify.com/v1/artists/58bPSgeKpyyFlJ9LatULIO",
+      "id" : "58bPSgeKpyyFlJ9LatULIO",
+      "name" : "HARBOUR",
+      "type" : "artist",
+      "uri" : "spotify:artist:58bPSgeKpyyFlJ9LatULIO"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 271137,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "TCAEJ1989024"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3Rg5r1w6B7ZXEhd5elZ7Np"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3Rg5r1w6B7ZXEhd5elZ7Np",
+    "id" : "3Rg5r1w6B7ZXEhd5elZ7Np",
+    "is_local" : false,
+    "name" : "Float",
+    "popularity" : 64,
+    "preview_url" : "https://p.scdn.co/mp3-preview/9271d7d2d5f5eaf6b361e96dc3de5b5e22395420?cid=1513a3be19ae4bef880e12e35d995b13",
+    "track_number" : 8,
+    "type" : "track",
+    "uri" : "spotify:track:3Rg5r1w6B7ZXEhd5elZ7Np"
+  }, {
+    "album" : {
+      "album_type" : "ALBUM",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0L5GV6LN8SWWUWIdBbTLTZ",
+        "id" : "0L5GV6LN8SWWUWIdBbTLTZ",
+        "name" : "Shankar-Ehsaan-Loy",
+        "type" : "artist",
+        "uri" : "spotify:artist:0L5GV6LN8SWWUWIdBbTLTZ"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/6Baavsh6HfNka1IyvPrr24"
+      },
+      "href" : "https://api.spotify.com/v1/albums/6Baavsh6HfNka1IyvPrr24",
+      "id" : "6Baavsh6HfNka1IyvPrr24",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730acb5a72549287bf33b51b71",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020acb5a72549287bf33b51b71",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510acb5a72549287bf33b51b71",
+        "width" : 64
+      } ],
+      "name" : "Zindagi Na Milegi Dobara",
+      "release_date" : "2011-06-06",
+      "release_date_precision" : "day",
+      "total_tracks" : 12,
+      "type" : "album",
+      "uri" : "spotify:album:6Baavsh6HfNka1IyvPrr24"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0XL6ie7a0NY5FM05b9Rn5L"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0XL6ie7a0NY5FM05b9Rn5L",
+      "id" : "0XL6ie7a0NY5FM05b9Rn5L",
+      "name" : "Farhan Akhtar",
+      "type" : "artist",
+      "uri" : "spotify:artist:0XL6ie7a0NY5FM05b9Rn5L"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5TWDvkVWG1vayan1QA9q8U"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5TWDvkVWG1vayan1QA9q8U",
+      "id" : "5TWDvkVWG1vayan1QA9q8U",
+      "name" : "Hrithik Roshan",
+      "type" : "artist",
+      "uri" : "spotify:artist:5TWDvkVWG1vayan1QA9q8U"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1WTFOsRsg1Vzx5NzyE53JR"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1WTFOsRsg1Vzx5NzyE53JR",
+      "id" : "1WTFOsRsg1Vzx5NzyE53JR",
+      "name" : "Abhay Deol",
+      "type" : "artist",
+      "uri" : "spotify:artist:1WTFOsRsg1Vzx5NzyE53JR"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1BUoAbyYuvOr13MjHqgdOy"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1BUoAbyYuvOr13MjHqgdOy",
+      "id" : "1BUoAbyYuvOr13MjHqgdOy",
+      "name" : "Maria Del Mar Fernandez",
+      "type" : "artist",
+      "uri" : "spotify:artist:1BUoAbyYuvOr13MjHqgdOy"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 229575,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "INS181101718"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3TAhWtQnpoL5Vl9VQPl9fU"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3TAhWtQnpoL5Vl9VQPl9fU",
+    "id" : "3TAhWtQnpoL5Vl9VQPl9fU",
+    "is_local" : false,
+    "name" : "Senorita",
+    "popularity" : 64,
+    "preview_url" : "https://p.scdn.co/mp3-preview/1b71ca86832a034599a1820da09c15cfcccdbe04?cid=1513a3be19ae4bef880e12e35d995b13",
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:3TAhWtQnpoL5Vl9VQPl9fU"
+  }, {
+    "album" : {
+      "album_type" : "ALBUM",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1mYsTxnqsietFxj1OgoGbG",
+        "id" : "1mYsTxnqsietFxj1OgoGbG",
+        "name" : "A.R. Rahman",
+        "type" : "artist",
+        "uri" : "spotify:artist:1mYsTxnqsietFxj1OgoGbG"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LSc9xIVTdo9mpClaC5Asu"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LSc9xIVTdo9mpClaC5Asu",
+        "id" : "0LSc9xIVTdo9mpClaC5Asu",
+        "name" : "Rajat Dholakia",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LSc9xIVTdo9mpClaC5Asu"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2oEJvIPxiVWejbACLjq6Lh"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2oEJvIPxiVWejbACLjq6Lh",
+      "id" : "2oEJvIPxiVWejbACLjq6Lh",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f7c6e0a439f01c38bac5730c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f7c6e0a439f01c38bac5730c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f7c6e0a439f01c38bac5730c",
+        "width" : 64
+      } ],
+      "name" : "Delhi-6",
+      "release_date" : "2009-01-19",
+      "release_date_precision" : "day",
+      "total_tracks" : 10,
+      "type" : "album",
+      "uri" : "spotify:album:2oEJvIPxiVWejbACLjq6Lh"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4W91bbPB2CTSsHwt7eqNl7",
+      "id" : "4W91bbPB2CTSsHwt7eqNl7",
+      "name" : "Javed Ali",
+      "type" : "artist",
+      "uri" : "spotify:artist:4W91bbPB2CTSsHwt7eqNl7"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4oVMLzAqW6qhRpZWt8fNw4",
+      "id" : "4oVMLzAqW6qhRpZWt8fNw4",
+      "name" : "Kailash Kher",
+      "type" : "artist",
+      "uri" : "spotify:artist:4oVMLzAqW6qhRpZWt8fNw4"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 519235,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "INS180900090"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3V80Iv04B9XAqGHbXdtRT1"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3V80Iv04B9XAqGHbXdtRT1",
+    "id" : "3V80Iv04B9XAqGHbXdtRT1",
+    "is_local" : false,
+    "name" : "Arziyan",
+    "popularity" : 53,
+    "preview_url" : "https://p.scdn.co/mp3-preview/a95c524654ef6c7dc6d87edf677ab5d266b26c10?cid=1513a3be19ae4bef880e12e35d995b13",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:3V80Iv04B9XAqGHbXdtRT1"
+  }, {
+    "album" : {
+      "album_type" : "SINGLE",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4ug3P1K8BaCdJXROrqHqhu"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4ug3P1K8BaCdJXROrqHqhu",
+        "id" : "4ug3P1K8BaCdJXROrqHqhu",
+        "name" : "Winnetka Bowling League",
+        "type" : "artist",
+        "uri" : "spotify:artist:4ug3P1K8BaCdJXROrqHqhu"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/7BrkM5hwqhWbtzxNnPrZVF"
+      },
+      "href" : "https://api.spotify.com/v1/albums/7BrkM5hwqhWbtzxNnPrZVF",
+      "id" : "7BrkM5hwqhWbtzxNnPrZVF",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273d9f941cd588f98bcd6d69369",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02d9f941cd588f98bcd6d69369",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851d9f941cd588f98bcd6d69369",
+        "width" : 64
+      } ],
+      "name" : "On The 5",
+      "release_date" : "2018-08-10",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:7BrkM5hwqhWbtzxNnPrZVF"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4ug3P1K8BaCdJXROrqHqhu"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4ug3P1K8BaCdJXROrqHqhu",
+      "id" : "4ug3P1K8BaCdJXROrqHqhu",
+      "name" : "Winnetka Bowling League",
+      "type" : "artist",
+      "uri" : "spotify:artist:4ug3P1K8BaCdJXROrqHqhu"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 179840,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USRC11802799"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3jz7ycF3AlGpJ1EDgxqK5G"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3jz7ycF3AlGpJ1EDgxqK5G",
+    "id" : "3jz7ycF3AlGpJ1EDgxqK5G",
+    "is_local" : false,
+    "name" : "On The 5",
+    "popularity" : 51,
+    "preview_url" : "https://p.scdn.co/mp3-preview/bdfe70c69e521cad295935be1ce8777c5733beab?cid=1513a3be19ae4bef880e12e35d995b13",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:3jz7ycF3AlGpJ1EDgxqK5G"
+  }, {
+    "album" : {
+      "album_type" : "ALBUM",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7HCqGPJcQTyGJ2yqntbuyr",
+        "id" : "7HCqGPJcQTyGJ2yqntbuyr",
+        "name" : "Amit Trivedi",
+        "type" : "artist",
+        "uri" : "spotify:artist:7HCqGPJcQTyGJ2yqntbuyr"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5UdFr0GeO7jKIaNIJgwB36",
+        "id" : "5UdFr0GeO7jKIaNIJgwB36",
+        "name" : "Raftaar",
+        "type" : "artist",
+        "uri" : "spotify:artist:5UdFr0GeO7jKIaNIJgwB36"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2WrKNI4oe46x5gpMkPPwW2"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2WrKNI4oe46x5gpMkPPwW2",
+        "id" : "2WrKNI4oe46x5gpMkPPwW2",
+        "name" : "Girish Nakod",
+        "type" : "artist",
+        "uri" : "spotify:artist:2WrKNI4oe46x5gpMkPPwW2"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/06l61IvDCVAeThVR8ajgxj"
+      },
+      "href" : "https://api.spotify.com/v1/albums/06l61IvDCVAeThVR8ajgxj",
+      "id" : "06l61IvDCVAeThVR8ajgxj",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273c411e5c8eec8b0e1c5f21b27",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02c411e5c8eec8b0e1c5f21b27",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851c411e5c8eec8b0e1c5f21b27",
+        "width" : 64
+      } ],
+      "name" : "Andhadhun",
+      "release_date" : "2018-10-03",
+      "release_date_precision" : "day",
+      "total_tracks" : 11,
+      "type" : "album",
+      "uri" : "spotify:album:06l61IvDCVAeThVR8ajgxj"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7HCqGPJcQTyGJ2yqntbuyr",
+      "id" : "7HCqGPJcQTyGJ2yqntbuyr",
+      "name" : "Amit Trivedi",
+      "type" : "artist",
+      "uri" : "spotify:artist:7HCqGPJcQTyGJ2yqntbuyr"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 210951,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "INZ031404092"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4JQxGJ8jsKW8pOUVoAgOZr"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4JQxGJ8jsKW8pOUVoAgOZr",
+    "id" : "4JQxGJ8jsKW8pOUVoAgOZr",
+    "is_local" : false,
+    "name" : "Naina Da Kya Kasoor",
+    "popularity" : 70,
+    "preview_url" : "https://p.scdn.co/mp3-preview/66d27ac71af25174b0d72cfa5acfa2d1b49b673d?cid=1513a3be19ae4bef880e12e35d995b13",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:4JQxGJ8jsKW8pOUVoAgOZr"
+  }, {
+    "album" : {
+      "album_type" : "SINGLE",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/62iEYJuqOpo6M5UAu4aw3U"
+        },
+        "href" : "https://api.spotify.com/v1/artists/62iEYJuqOpo6M5UAu4aw3U",
+        "id" : "62iEYJuqOpo6M5UAu4aw3U",
+        "name" : "dad sports",
+        "type" : "artist",
+        "uri" : "spotify:artist:62iEYJuqOpo6M5UAu4aw3U"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1pJdFDoGjolYy9eb2b1IIa"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1pJdFDoGjolYy9eb2b1IIa",
+      "id" : "1pJdFDoGjolYy9eb2b1IIa",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730da58bc570bf1f954bbf8692",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020da58bc570bf1f954bbf8692",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510da58bc570bf1f954bbf8692",
+        "width" : 64
+      } ],
+      "name" : "out 4 a breather",
+      "release_date" : "2020-05-05",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:1pJdFDoGjolYy9eb2b1IIa"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/62iEYJuqOpo6M5UAu4aw3U"
+      },
+      "href" : "https://api.spotify.com/v1/artists/62iEYJuqOpo6M5UAu4aw3U",
+      "id" : "62iEYJuqOpo6M5UAu4aw3U",
+      "name" : "dad sports",
+      "type" : "artist",
+      "uri" : "spotify:artist:62iEYJuqOpo6M5UAu4aw3U"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 201857,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "QZDA72076242"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4LSxhWoG9I6SQFMkd6X031"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4LSxhWoG9I6SQFMkd6X031",
+    "id" : "4LSxhWoG9I6SQFMkd6X031",
+    "is_local" : false,
+    "name" : "out 4 a breather",
+    "popularity" : 55,
+    "preview_url" : "https://p.scdn.co/mp3-preview/cf330a3fcf760f20c208aaf602e651f9faa0222d?cid=1513a3be19ae4bef880e12e35d995b13",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:4LSxhWoG9I6SQFMkd6X031"
+  }, {
+    "album" : {
+      "album_type" : "SINGLE",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/3OiVNeHkjQfnikmcBXbplT"
+        },
+        "href" : "https://api.spotify.com/v1/artists/3OiVNeHkjQfnikmcBXbplT",
+        "id" : "3OiVNeHkjQfnikmcBXbplT",
+        "name" : "Megan Nicole",
+        "type" : "artist",
+        "uri" : "spotify:artist:3OiVNeHkjQfnikmcBXbplT"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0SIo3r1UqmssC14q77voTp"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0SIo3r1UqmssC14q77voTp",
+      "id" : "0SIo3r1UqmssC14q77voTp",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27332b38fbd55cf7bfa678a10e8",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0232b38fbd55cf7bfa678a10e8",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485132b38fbd55cf7bfa678a10e8",
+        "width" : 64
+      } ],
+      "name" : "Levitating (Acoustic)",
+      "release_date" : "2021-06-17",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:0SIo3r1UqmssC14q77voTp"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3OiVNeHkjQfnikmcBXbplT"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3OiVNeHkjQfnikmcBXbplT",
+      "id" : "3OiVNeHkjQfnikmcBXbplT",
+      "name" : "Megan Nicole",
+      "type" : "artist",
+      "uri" : "spotify:artist:3OiVNeHkjQfnikmcBXbplT"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 125000,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBDMT2100104"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4Os3dG99565BnXqMD1JbrR"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4Os3dG99565BnXqMD1JbrR",
+    "id" : "4Os3dG99565BnXqMD1JbrR",
+    "is_local" : false,
+    "name" : "Levitating - Acoustic",
+    "popularity" : 51,
+    "preview_url" : "https://p.scdn.co/mp3-preview/787b4b96f2692123a8bd738859c13c107e18ebd5?cid=1513a3be19ae4bef880e12e35d995b13",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:4Os3dG99565BnXqMD1JbrR"
+  }, {
+    "album" : {
+      "album_type" : "COMPILATION",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0CfAXmULqKq6KVJMsLGGAX"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0CfAXmULqKq6KVJMsLGGAX",
+      "id" : "0CfAXmULqKq6KVJMsLGGAX",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27322927ab54277255e23fc4756",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0222927ab54277255e23fc4756",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485122927ab54277255e23fc4756",
+        "width" : 64
+      } ],
+      "name" : "Sonu Ke Titu Ki Sweety",
+      "release_date" : "2018-02-14",
+      "release_date_precision" : "day",
+      "total_tracks" : 8,
+      "type" : "album",
+      "uri" : "spotify:album:0CfAXmULqKq6KVJMsLGGAX"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3dN9MQpjIyNxyeRfz4EDZe",
+      "id" : "3dN9MQpjIyNxyeRfz4EDZe",
+      "name" : "Rochak Kohli",
+      "type" : "artist",
+      "uri" : "spotify:artist:3dN9MQpjIyNxyeRfz4EDZe"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw",
+      "id" : "4YRxDV8wJFPHPTeXepOstw",
+      "name" : "Arijit Singh",
+      "type" : "artist",
+      "uri" : "spotify:artist:4YRxDV8wJFPHPTeXepOstw"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 264805,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "INS181800276"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4ZTx87kAgEwlPMzoojFZWg"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4ZTx87kAgEwlPMzoojFZWg",
+    "id" : "4ZTx87kAgEwlPMzoojFZWg",
+    "is_local" : false,
+    "name" : "Tera Yaar Hoon Main",
+    "popularity" : 66,
+    "preview_url" : "https://p.scdn.co/mp3-preview/a4486ca31ade0db35bfd446e06e758f1e019306e?cid=1513a3be19ae4bef880e12e35d995b13",
+    "track_number" : 7,
+    "type" : "track",
+    "uri" : "spotify:track:4ZTx87kAgEwlPMzoojFZWg"
+  }, {
+    "album" : {
+      "album_type" : "COMPILATION",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2koMSm4dddvhxLzZyN2aEE"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2koMSm4dddvhxLzZyN2aEE",
+      "id" : "2koMSm4dddvhxLzZyN2aEE",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273098f7d9926a009e528d7501e",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02098f7d9926a009e528d7501e",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851098f7d9926a009e528d7501e",
+        "width" : 64
+      } ],
+      "name" : "Kesari",
+      "release_date" : "2019-03-18",
+      "release_date_precision" : "day",
+      "total_tracks" : 7,
+      "type" : "album",
+      "uri" : "spotify:album:2koMSm4dddvhxLzZyN2aEE"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw",
+      "id" : "4YRxDV8wJFPHPTeXepOstw",
+      "name" : "Arijit Singh",
+      "type" : "artist",
+      "uri" : "spotify:artist:4YRxDV8wJFPHPTeXepOstw"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1sVmXkzX2ukc6QvasrDBES",
+      "id" : "1sVmXkzX2ukc6QvasrDBES",
+      "name" : "Asees Kaur",
+      "type" : "artist",
+      "uri" : "spotify:artist:1sVmXkzX2ukc6QvasrDBES"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 223999,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "INZ031405182"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4t1DkxexoMbIHfSHS4Uiyr"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4t1DkxexoMbIHfSHS4Uiyr",
+    "id" : "4t1DkxexoMbIHfSHS4Uiyr",
+    "is_local" : false,
+    "name" : "Ve Maahi",
+    "popularity" : 67,
+    "preview_url" : "https://p.scdn.co/mp3-preview/b31fa9d4abdf6d52025838d22b0f83bd1c19901e?cid=1513a3be19ae4bef880e12e35d995b13",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:4t1DkxexoMbIHfSHS4Uiyr"
+  }, {
+    "album" : {
+      "album_type" : "SINGLE",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1mYsTxnqsietFxj1OgoGbG",
+        "id" : "1mYsTxnqsietFxj1OgoGbG",
+        "name" : "A.R. Rahman",
+        "type" : "artist",
+        "uri" : "spotify:artist:1mYsTxnqsietFxj1OgoGbG"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw",
+        "id" : "4YRxDV8wJFPHPTeXepOstw",
+        "name" : "Arijit Singh",
+        "type" : "artist",
+        "uri" : "spotify:artist:4YRxDV8wJFPHPTeXepOstw"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW"
+        },
+        "href" : "https://api.spotify.com/v1/artists/12CpR4SNDzVIlDoPSeNFeW",
+        "id" : "12CpR4SNDzVIlDoPSeNFeW",
+        "name" : "Shashaa Tirupati",
+        "type" : "artist",
+        "uri" : "spotify:artist:12CpR4SNDzVIlDoPSeNFeW"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2L1otdfoUvp3MKdaT4knVK"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2L1otdfoUvp3MKdaT4knVK",
+      "id" : "2L1otdfoUvp3MKdaT4knVK",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273004f83c1be7d66c4677b32a8",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02004f83c1be7d66c4677b32a8",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851004f83c1be7d66c4677b32a8",
+        "width" : 64
+      } ],
+      "name" : "Rait Zara Si (From \"Atrangi Re\")",
+      "release_date" : "2021-12-06",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:2L1otdfoUvp3MKdaT4knVK"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1mYsTxnqsietFxj1OgoGbG",
+      "id" : "1mYsTxnqsietFxj1OgoGbG",
+      "name" : "A.R. Rahman",
+      "type" : "artist",
+      "uri" : "spotify:artist:1mYsTxnqsietFxj1OgoGbG"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw",
+      "id" : "4YRxDV8wJFPHPTeXepOstw",
+      "name" : "Arijit Singh",
+      "type" : "artist",
+      "uri" : "spotify:artist:4YRxDV8wJFPHPTeXepOstw"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW"
+      },
+      "href" : "https://api.spotify.com/v1/artists/12CpR4SNDzVIlDoPSeNFeW",
+      "id" : "12CpR4SNDzVIlDoPSeNFeW",
+      "name" : "Shashaa Tirupati",
+      "type" : "artist",
+      "uri" : "spotify:artist:12CpR4SNDzVIlDoPSeNFeW"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 291462,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "INS182115958"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4uK0M8AI6gyFmyzUneQpbi"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4uK0M8AI6gyFmyzUneQpbi",
+    "id" : "4uK0M8AI6gyFmyzUneQpbi",
+    "is_local" : false,
+    "name" : "Rait Zara Si (From \"Atrangi Re\")",
+    "popularity" : 71,
+    "preview_url" : "https://p.scdn.co/mp3-preview/2dec221c8364896d17797145e1f8c476013bba0a?cid=1513a3be19ae4bef880e12e35d995b13",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:4uK0M8AI6gyFmyzUneQpbi"
+  }, {
+    "album" : {
+      "album_type" : "COMPILATION",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3uuu6u13U0KeVQsZ3CZKK4"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3uuu6u13U0KeVQsZ3CZKK4",
+      "id" : "3uuu6u13U0KeVQsZ3CZKK4",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273c5545f737b16ad5ee767b62a",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02c5545f737b16ad5ee767b62a",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851c5545f737b16ad5ee767b62a",
+        "width" : 64
+      } ],
+      "name" : "Kabir Singh",
+      "release_date" : "2019-06-14",
+      "release_date_precision" : "day",
+      "total_tracks" : 9,
+      "type" : "album",
+      "uri" : "spotify:album:3uuu6u13U0KeVQsZ3CZKK4"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw",
+      "id" : "4YRxDV8wJFPHPTeXepOstw",
+      "name" : "Arijit Singh",
+      "type" : "artist",
+      "uri" : "spotify:artist:4YRxDV8wJFPHPTeXepOstw"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 284779,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "INS181902088"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5QtEFRYavs5S3GHtFEq7A4"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5QtEFRYavs5S3GHtFEq7A4",
+    "id" : "5QtEFRYavs5S3GHtFEq7A4",
+    "is_local" : false,
+    "name" : "Tujhe Kitna Chahne Lage",
+    "popularity" : 68,
+    "preview_url" : "https://p.scdn.co/mp3-preview/892c95564b0371ca90b50b711ae6f16c6148d367?cid=1513a3be19ae4bef880e12e35d995b13",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:5QtEFRYavs5S3GHtFEq7A4"
+  }, {
+    "album" : {
+      "album_type" : "ALBUM",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5BvJzeQpmsdsFp4HGUYUEx",
+        "id" : "5BvJzeQpmsdsFp4HGUYUEx",
+        "name" : "Vampire Weekend",
+        "type" : "artist",
+        "uri" : "spotify:artist:5BvJzeQpmsdsFp4HGUYUEx"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "UY", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5fedTyx7AnXeyxLL0giq6x"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5fedTyx7AnXeyxLL0giq6x",
+      "id" : "5fedTyx7AnXeyxLL0giq6x",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737749a08ddab9edbe427e9876",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027749a08ddab9edbe427e9876",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517749a08ddab9edbe427e9876",
+        "width" : 64
+      } ],
+      "name" : "Vampire Weekend",
+      "release_date" : "2008-01-27",
+      "release_date_precision" : "day",
+      "total_tracks" : 11,
+      "type" : "album",
+      "uri" : "spotify:album:5fedTyx7AnXeyxLL0giq6x"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5BvJzeQpmsdsFp4HGUYUEx",
+      "id" : "5BvJzeQpmsdsFp4HGUYUEx",
+      "name" : "Vampire Weekend",
+      "type" : "artist",
+      "uri" : "spotify:artist:5BvJzeQpmsdsFp4HGUYUEx"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "UY", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 176466,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBBKS0700530"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5dUFfk2cwD8GiJPS03mYN0"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5dUFfk2cwD8GiJPS03mYN0",
+    "id" : "5dUFfk2cwD8GiJPS03mYN0",
+    "is_local" : false,
+    "name" : "Campus",
+    "popularity" : 63,
+    "preview_url" : "https://p.scdn.co/mp3-preview/7dc4ec584590f1ba296df35b96438e017cea2b2c?cid=1513a3be19ae4bef880e12e35d995b13",
+    "track_number" : 6,
+    "type" : "track",
+    "uri" : "spotify:track:5dUFfk2cwD8GiJPS03mYN0"
+  }, {
+    "album" : {
+      "album_type" : "SINGLE",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7DMveApC7UnC2NPfPvlHSU",
+        "id" : "7DMveApC7UnC2NPfPvlHSU",
+        "name" : "Cheat Codes",
+        "type" : "artist",
+        "uri" : "spotify:artist:7DMveApC7UnC2NPfPvlHSU"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1E2AEtxaFaJtH0lO7kgNKw",
+        "id" : "1E2AEtxaFaJtH0lO7kgNKw",
+        "name" : "Russell Dickerson",
+        "type" : "artist",
+        "uri" : "spotify:artist:1E2AEtxaFaJtH0lO7kgNKw"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2sb91FS5wPmcPf1GSgeAwF"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2sb91FS5wPmcPf1GSgeAwF",
+      "id" : "2sb91FS5wPmcPf1GSgeAwF",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f7ef25e4b356d3eb212e7ea6",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f7ef25e4b356d3eb212e7ea6",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f7ef25e4b356d3eb212e7ea6",
+        "width" : 64
+      } ],
+      "name" : "I Remember",
+      "release_date" : "2022-08-26",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:2sb91FS5wPmcPf1GSgeAwF"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7DMveApC7UnC2NPfPvlHSU",
+      "id" : "7DMveApC7UnC2NPfPvlHSU",
+      "name" : "Cheat Codes",
+      "type" : "artist",
+      "uri" : "spotify:artist:7DMveApC7UnC2NPfPvlHSU"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1E2AEtxaFaJtH0lO7kgNKw",
+      "id" : "1E2AEtxaFaJtH0lO7kgNKw",
+      "name" : "Russell Dickerson",
+      "type" : "artist",
+      "uri" : "spotify:artist:1E2AEtxaFaJtH0lO7kgNKw"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 168117,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "US3DF2271348"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5e2ZOmiFEAOFEgXNj1mHEk"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5e2ZOmiFEAOFEgXNj1mHEk",
+    "id" : "5e2ZOmiFEAOFEgXNj1mHEk",
+    "is_local" : false,
+    "name" : "I Remember",
+    "popularity" : 73,
+    "preview_url" : "https://p.scdn.co/mp3-preview/5b83dd1822f00e8b2196a7745a9fc1d8d7db5069?cid=1513a3be19ae4bef880e12e35d995b13",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:5e2ZOmiFEAOFEgXNj1mHEk"
+  }, {
+    "album" : {
+      "album_type" : "COMPILATION",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1wRPtKGflJrBx9BmLsSwlU",
+        "id" : "1wRPtKGflJrBx9BmLsSwlU",
+        "name" : "Pritam",
+        "type" : "artist",
+        "uri" : "spotify:artist:1wRPtKGflJrBx9BmLsSwlU"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/2WmuoXvPQjOkT4GlZGNAYC"
+        },
+        "href" : "https://api.spotify.com/v1/artists/2WmuoXvPQjOkT4GlZGNAYC",
+        "id" : "2WmuoXvPQjOkT4GlZGNAYC",
+        "name" : "Pankaj Awasthi",
+        "type" : "artist",
+        "uri" : "spotify:artist:2WmuoXvPQjOkT4GlZGNAYC"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/66DHPOlHSIRiBiGjG7Xvfx"
+      },
+      "href" : "https://api.spotify.com/v1/albums/66DHPOlHSIRiBiGjG7Xvfx",
+      "id" : "66DHPOlHSIRiBiGjG7Xvfx",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273d567bc615d8d891d112c8a35",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02d567bc615d8d891d112c8a35",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851d567bc615d8d891d112c8a35",
+        "width" : 64
+      } ],
+      "name" : "New York",
+      "release_date" : "2009-06-10",
+      "release_date_precision" : "day",
+      "total_tracks" : 8,
+      "type" : "album",
+      "uri" : "spotify:album:66DHPOlHSIRiBiGjG7Xvfx"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1wRPtKGflJrBx9BmLsSwlU",
+      "id" : "1wRPtKGflJrBx9BmLsSwlU",
+      "name" : "Pritam",
+      "type" : "artist",
+      "uri" : "spotify:artist:1wRPtKGflJrBx9BmLsSwlU"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4fEkbug6kZzzJ8eYX6Kbbp",
+      "id" : "4fEkbug6kZzzJ8eYX6Kbbp",
+      "name" : "KK",
+      "type" : "artist",
+      "uri" : "spotify:artist:4fEkbug6kZzzJ8eYX6Kbbp"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7qATomOqJzoJiuEpAaxOXd"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7qATomOqJzoJiuEpAaxOXd",
+      "id" : "7qATomOqJzoJiuEpAaxOXd",
+      "name" : "Sandeep Shrivastava",
+      "type" : "artist",
+      "uri" : "spotify:artist:7qATomOqJzoJiuEpAaxOXd"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 331572,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "INY090900001"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5u4q3iqZ9IMbXaR7bsGYbW"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5u4q3iqZ9IMbXaR7bsGYbW",
+    "id" : "5u4q3iqZ9IMbXaR7bsGYbW",
+    "is_local" : false,
+    "name" : "Hai Junoon",
+    "popularity" : 55,
+    "preview_url" : "https://p.scdn.co/mp3-preview/fdfe18d22b7423731acee41ed00998649d12445a?cid=1513a3be19ae4bef880e12e35d995b13",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:5u4q3iqZ9IMbXaR7bsGYbW"
+  }, {
+    "album" : {
+      "album_type" : "SINGLE",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6Mv8GjQa7LKUGCAqa9qqdb",
+        "id" : "6Mv8GjQa7LKUGCAqa9qqdb",
+        "name" : "Vishal-Shekhar",
+        "type" : "artist",
+        "uri" : "spotify:artist:6Mv8GjQa7LKUGCAqa9qqdb"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TW", "US", "UY", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4MzefJUmigFTnjful2wuum"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4MzefJUmigFTnjful2wuum",
+      "id" : "4MzefJUmigFTnjful2wuum",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273add6b0e45df7005a55e89c8a",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02add6b0e45df7005a55e89c8a",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851add6b0e45df7005a55e89c8a",
+        "width" : 64
+      } ],
+      "name" : "Dostana (Original Motion Picture Soundtrack)",
+      "release_date" : "2008-10-08",
+      "release_date_precision" : "day",
+      "total_tracks" : 6,
+      "type" : "album",
+      "uri" : "spotify:album:4MzefJUmigFTnjful2wuum"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6Mv8GjQa7LKUGCAqa9qqdb",
+      "id" : "6Mv8GjQa7LKUGCAqa9qqdb",
+      "name" : "Vishal-Shekhar",
+      "type" : "artist",
+      "uri" : "spotify:artist:6Mv8GjQa7LKUGCAqa9qqdb"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6CXEwIaXYfVJ84biCxqc9k",
+      "id" : "6CXEwIaXYfVJ84biCxqc9k",
+      "name" : "Vishal Dadlani",
+      "type" : "artist",
+      "uri" : "spotify:artist:6CXEwIaXYfVJ84biCxqc9k"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TW", "US", "UY", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 277986,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "INS170816338"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6M2UnI1LnXuXlWU54CKmKx"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6M2UnI1LnXuXlWU54CKmKx",
+    "id" : "6M2UnI1LnXuXlWU54CKmKx",
+    "is_local" : false,
+    "name" : "Jaane Kyun",
+    "popularity" : 56,
+    "preview_url" : "https://p.scdn.co/mp3-preview/d2e69de134240da3ac406b0568b399f91e71590d?cid=1513a3be19ae4bef880e12e35d995b13",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:6M2UnI1LnXuXlWU54CKmKx"
+  }, {
+    "album" : {
+      "album_type" : "COMPILATION",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/2ifXB65SLpF97vWZjKGpQ9"
+      },
+      "href" : "https://api.spotify.com/v1/albums/2ifXB65SLpF97vWZjKGpQ9",
+      "id" : "2ifXB65SLpF97vWZjKGpQ9",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273e4c77dc1b6c85c754f7f136c",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02e4c77dc1b6c85c754f7f136c",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851e4c77dc1b6c85c754f7f136c",
+        "width" : 64
+      } ],
+      "name" : "Shiddat",
+      "release_date" : "2021-09-22",
+      "release_date_precision" : "day",
+      "total_tracks" : 7,
+      "type" : "album",
+      "uri" : "spotify:album:2ifXB65SLpF97vWZjKGpQ9"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6WOdPJmexxFINcKMkP2jMG",
+      "id" : "6WOdPJmexxFINcKMkP2jMG",
+      "name" : "Sachet Tandon",
+      "type" : "artist",
+      "uri" : "spotify:artist:6WOdPJmexxFINcKMkP2jMG"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3tPQOjkxO3mrYrrgkTeXgH",
+      "id" : "3tPQOjkxO3mrYrrgkTeXgH",
+      "name" : "Nikhita Gandhi",
+      "type" : "artist",
+      "uri" : "spotify:artist:3tPQOjkxO3mrYrrgkTeXgH"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4ojkMVHjuDZgDXSJy5qs2h",
+      "id" : "4ojkMVHjuDZgDXSJy5qs2h",
+      "name" : "Madhubanti Bagchi",
+      "type" : "artist",
+      "uri" : "spotify:artist:4ojkMVHjuDZgDXSJy5qs2h"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1mBydYMVBECdDmMfE2sEUO",
+      "id" : "1mBydYMVBECdDmMfE2sEUO",
+      "name" : "Sachin-Jigar",
+      "type" : "artist",
+      "uri" : "spotify:artist:1mBydYMVBECdDmMfE2sEUO"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 230185,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "INS182101533"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/6qZyM6JV8ohLC4S2EL5sFh"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/6qZyM6JV8ohLC4S2EL5sFh",
+    "id" : "6qZyM6JV8ohLC4S2EL5sFh",
+    "is_local" : false,
+    "name" : "Barbaadiyan",
+    "popularity" : 71,
+    "preview_url" : "https://p.scdn.co/mp3-preview/34d0970287c23de5563d1dc2ea57a1a0fae9bc92?cid=1513a3be19ae4bef880e12e35d995b13",
+    "track_number" : 3,
+    "type" : "track",
+    "uri" : "spotify:track:6qZyM6JV8ohLC4S2EL5sFh"
+  }, {
+    "album" : {
+      "album_type" : "COMPILATION",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1qvic7ic93zptwsWs2nvhU"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1qvic7ic93zptwsWs2nvhU",
+      "id" : "1qvic7ic93zptwsWs2nvhU",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27334c0fa4f40062d2c73ccca30",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0234c0fa4f40062d2c73ccca30",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485134c0fa4f40062d2c73ccca30",
+        "width" : 64
+      } ],
+      "name" : "Shubh Mangal Zyada Saavdhan",
+      "release_date" : "2020-02-24",
+      "release_date_precision" : "day",
+      "total_tracks" : 7,
+      "type" : "album",
+      "uri" : "spotify:album:1qvic7ic93zptwsWs2nvhU"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7qHsapL39aTQsPhixtzVvy"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7qHsapL39aTQsPhixtzVvy",
+      "id" : "7qHsapL39aTQsPhixtzVvy",
+      "name" : "Ayushmann Khurrana",
+      "type" : "artist",
+      "uri" : "spotify:artist:7qHsapL39aTQsPhixtzVvy"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 132158,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "INS182000319"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/73whmTgxzRFLhPbRMkDnjj"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/73whmTgxzRFLhPbRMkDnjj",
+    "id" : "73whmTgxzRFLhPbRMkDnjj",
+    "is_local" : false,
+    "name" : "Mere Liye Tum Kaafi Ho",
+    "popularity" : 54,
+    "preview_url" : "https://p.scdn.co/mp3-preview/ba66ef02c595060798316080f410b4fc0dbc7ecb?cid=1513a3be19ae4bef880e12e35d995b13",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:73whmTgxzRFLhPbRMkDnjj"
+  }, {
+    "album" : {
+      "album_type" : "SINGLE",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6Mv8GjQa7LKUGCAqa9qqdb",
+        "id" : "6Mv8GjQa7LKUGCAqa9qqdb",
+        "name" : "Vishal-Shekhar",
+        "type" : "artist",
+        "uri" : "spotify:artist:6Mv8GjQa7LKUGCAqa9qqdb"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TW", "US", "UY", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4MzefJUmigFTnjful2wuum"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4MzefJUmigFTnjful2wuum",
+      "id" : "4MzefJUmigFTnjful2wuum",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273add6b0e45df7005a55e89c8a",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02add6b0e45df7005a55e89c8a",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851add6b0e45df7005a55e89c8a",
+        "width" : 64
+      } ],
+      "name" : "Dostana (Original Motion Picture Soundtrack)",
+      "release_date" : "2008-10-08",
+      "release_date_precision" : "day",
+      "total_tracks" : 6,
+      "type" : "album",
+      "uri" : "spotify:album:4MzefJUmigFTnjful2wuum"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6Mv8GjQa7LKUGCAqa9qqdb",
+      "id" : "6Mv8GjQa7LKUGCAqa9qqdb",
+      "name" : "Vishal-Shekhar",
+      "type" : "artist",
+      "uri" : "spotify:artist:6Mv8GjQa7LKUGCAqa9qqdb"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0oOet2f43PA68X5RxKobEy",
+      "id" : "0oOet2f43PA68X5RxKobEy",
+      "name" : "Shreya Ghoshal",
+      "type" : "artist",
+      "uri" : "spotify:artist:0oOet2f43PA68X5RxKobEy"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3W6xwT7LnBITpBcqdRq3lm"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3W6xwT7LnBITpBcqdRq3lm",
+      "id" : "3W6xwT7LnBITpBcqdRq3lm",
+      "name" : "Amanat Ali",
+      "type" : "artist",
+      "uri" : "spotify:artist:3W6xwT7LnBITpBcqdRq3lm"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6CXEwIaXYfVJ84biCxqc9k"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6CXEwIaXYfVJ84biCxqc9k",
+      "id" : "6CXEwIaXYfVJ84biCxqc9k",
+      "name" : "Vishal Dadlani",
+      "type" : "artist",
+      "uri" : "spotify:artist:6CXEwIaXYfVJ84biCxqc9k"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6ID2zdEFxXLChwiqQzf3ZA"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6ID2zdEFxXLChwiqQzf3ZA",
+      "id" : "6ID2zdEFxXLChwiqQzf3ZA",
+      "name" : "Raja Hasan",
+      "type" : "artist",
+      "uri" : "spotify:artist:6ID2zdEFxXLChwiqQzf3ZA"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TW", "US", "UY", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 259120,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "INS170816340"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7Esjmr77c4SU5IlMtym7Ho"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7Esjmr77c4SU5IlMtym7Ho",
+    "id" : "7Esjmr77c4SU5IlMtym7Ho",
+    "is_local" : false,
+    "name" : "Khabar Nahi",
+    "popularity" : 52,
+    "preview_url" : "https://p.scdn.co/mp3-preview/3c4c9cbe7e130c8e43017c8c58cf564617484d39?cid=1513a3be19ae4bef880e12e35d995b13",
+    "track_number" : 5,
+    "type" : "track",
+    "uri" : "spotify:track:7Esjmr77c4SU5IlMtym7Ho"
+  }, {
+    "album" : {
+      "album_type" : "ALBUM",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1wRPtKGflJrBx9BmLsSwlU",
+        "id" : "1wRPtKGflJrBx9BmLsSwlU",
+        "name" : "Pritam",
+        "type" : "artist",
+        "uri" : "spotify:artist:1wRPtKGflJrBx9BmLsSwlU"
+      } ],
+      "available_markets" : [ "IN" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1y5h6GBXEgFjBDHThikj1w"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1y5h6GBXEgFjBDHThikj1w",
+      "id" : "1y5h6GBXEgFjBDHThikj1w",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27325117ea77a6dd5f721a611a2",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0225117ea77a6dd5f721a611a2",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485125117ea77a6dd5f721a611a2",
+        "width" : 64
+      } ],
+      "name" : "Cocktail (Original Motion Picture Soundtrack)",
+      "release_date" : "2012-06-15",
+      "release_date_precision" : "day",
+      "total_tracks" : 11,
+      "type" : "album",
+      "uri" : "spotify:album:1y5h6GBXEgFjBDHThikj1w"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3tHD07u1ON4uHxmnT9rwqZ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3tHD07u1ON4uHxmnT9rwqZ",
+      "id" : "3tHD07u1ON4uHxmnT9rwqZ",
+      "name" : "Neeraj Shridhar",
+      "type" : "artist",
+      "uri" : "spotify:artist:3tHD07u1ON4uHxmnT9rwqZ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3nQ125TJobosBH446Dsvvv",
+      "id" : "3nQ125TJobosBH446Dsvvv",
+      "name" : "Kavita Seth",
+      "type" : "artist",
+      "uri" : "spotify:artist:3nQ125TJobosBH446Dsvvv"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1wRPtKGflJrBx9BmLsSwlU",
+      "id" : "1wRPtKGflJrBx9BmLsSwlU",
+      "name" : "Pritam",
+      "type" : "artist",
+      "uri" : "spotify:artist:1wRPtKGflJrBx9BmLsSwlU"
+    } ],
+    "available_markets" : [ "IN" ],
+    "disc_number" : 1,
+    "duration_ms" : 283693,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBSGZ1200008"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7H3mfOvtPNA8YDF3EdKy0L"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7H3mfOvtPNA8YDF3EdKy0L",
+    "id" : "7H3mfOvtPNA8YDF3EdKy0L",
+    "is_local" : false,
+    "name" : "Tum Hi Ho Bandhu",
+    "popularity" : 70,
+    "preview_url" : "https://p.scdn.co/mp3-preview/4349005a4b4ae6deb7a3a90daa177a1b561badf6?cid=1513a3be19ae4bef880e12e35d995b13",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:7H3mfOvtPNA8YDF3EdKy0L"
+  }, {
+    "album" : {
+      "album_type" : "SINGLE",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j"
+        },
+        "href" : "https://api.spotify.com/v1/artists/56SjZARoEvag3RoKWIb16j",
+        "id" : "56SjZARoEvag3RoKWIb16j",
+        "name" : "B Praak",
+        "type" : "artist",
+        "uri" : "spotify:artist:56SjZARoEvag3RoKWIb16j"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/4FZfLmO4PPbmmcuXQrcwTL"
+      },
+      "href" : "https://api.spotify.com/v1/albums/4FZfLmO4PPbmmcuXQrcwTL",
+      "id" : "4FZfLmO4PPbmmcuXQrcwTL",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273184757d3e40c998121bde956",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02184757d3e40c998121bde956",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851184757d3e40c998121bde956",
+        "width" : 64
+      } ],
+      "name" : "Meri Jaan Meri Jaan (From \"Bachchhan Paandey\")",
+      "release_date" : "2022-03-01",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:4FZfLmO4PPbmmcuXQrcwTL"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j"
+      },
+      "href" : "https://api.spotify.com/v1/artists/56SjZARoEvag3RoKWIb16j",
+      "id" : "56SjZARoEvag3RoKWIb16j",
+      "name" : "B Praak",
+      "type" : "artist",
+      "uri" : "spotify:artist:56SjZARoEvag3RoKWIb16j"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 248006,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "INS182200422"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7hUxzSsK2OHjeKWkzeArIU"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7hUxzSsK2OHjeKWkzeArIU",
+    "id" : "7hUxzSsK2OHjeKWkzeArIU",
+    "is_local" : false,
+    "name" : "Meri Jaan Meri Jaan (From \"Bachchhan Paandey\")",
+    "popularity" : 68,
+    "preview_url" : "https://p.scdn.co/mp3-preview/8e2034cda0abb960eb5ca5c4d3f4fbdcd87df9b9?cid=1513a3be19ae4bef880e12e35d995b13",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:7hUxzSsK2OHjeKWkzeArIU"
+  }, {
+    "album" : {
+      "album_type" : "ALBUM",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1mYsTxnqsietFxj1OgoGbG",
+        "id" : "1mYsTxnqsietFxj1OgoGbG",
+        "name" : "A.R. Rahman",
+        "type" : "artist",
+        "uri" : "spotify:artist:1mYsTxnqsietFxj1OgoGbG"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3Ha8CM9px7D2fn25K4ijl6"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3Ha8CM9px7D2fn25K4ijl6",
+      "id" : "3Ha8CM9px7D2fn25K4ijl6",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2737f59a7efcdad7a7b22d87878",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e027f59a7efcdad7a7b22d87878",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048517f59a7efcdad7a7b22d87878",
+        "width" : 64
+      } ],
+      "name" : "OK Jaanu (Original Motion Picture Soundtrack)",
+      "release_date" : "2017-01-04",
+      "release_date_precision" : "day",
+      "total_tracks" : 8,
+      "type" : "album",
+      "uri" : "spotify:album:3Ha8CM9px7D2fn25K4ijl6"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1mYsTxnqsietFxj1OgoGbG",
+      "id" : "1mYsTxnqsietFxj1OgoGbG",
+      "name" : "A.R. Rahman",
+      "type" : "artist",
+      "uri" : "spotify:artist:1mYsTxnqsietFxj1OgoGbG"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0y59o4v8uw5crbN9M3JiL1",
+      "id" : "0y59o4v8uw5crbN9M3JiL1",
+      "name" : "Badshah",
+      "type" : "artist",
+      "uri" : "spotify:artist:0y59o4v8uw5crbN9M3JiL1"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4f7KfxeHq9BiylGmyXepGt",
+      "id" : "4f7KfxeHq9BiylGmyXepGt",
+      "name" : "Tanishk Bagchi",
+      "type" : "artist",
+      "uri" : "spotify:artist:4f7KfxeHq9BiylGmyXepGt"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW"
+      },
+      "href" : "https://api.spotify.com/v1/artists/12CpR4SNDzVIlDoPSeNFeW",
+      "id" : "12CpR4SNDzVIlDoPSeNFeW",
+      "name" : "Shashaa Tirupati",
+      "type" : "artist",
+      "uri" : "spotify:artist:12CpR4SNDzVIlDoPSeNFeW"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1tqysapcCh1lWEAc9dIFpa",
+      "id" : "1tqysapcCh1lWEAc9dIFpa",
+      "name" : "Jubin Nautiyal",
+      "type" : "artist",
+      "uri" : "spotify:artist:1tqysapcCh1lWEAc9dIFpa"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 179657,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "INS171603168"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7heMX7gyHP0mhTlNgd7Lxd"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7heMX7gyHP0mhTlNgd7Lxd",
+    "id" : "7heMX7gyHP0mhTlNgd7Lxd",
+    "is_local" : false,
+    "name" : "The Humma Song",
+    "popularity" : 67,
+    "preview_url" : "https://p.scdn.co/mp3-preview/b6459433a683b767b119559ce163af41e2998017?cid=1513a3be19ae4bef880e12e35d995b13",
+    "track_number" : 8,
+    "type" : "track",
+    "uri" : "spotify:track:7heMX7gyHP0mhTlNgd7Lxd"
+  }, {
+    "album" : {
+      "album_type" : "SINGLE",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6PtoffEX0RiktNdmCeuWkl"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6PtoffEX0RiktNdmCeuWkl",
+        "id" : "6PtoffEX0RiktNdmCeuWkl",
+        "name" : "Siddharth Basrur",
+        "type" : "artist",
+        "uri" : "spotify:artist:6PtoffEX0RiktNdmCeuWkl"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/6q29t5RuXxlBuqIZsOMQss"
+        },
+        "href" : "https://api.spotify.com/v1/artists/6q29t5RuXxlBuqIZsOMQss",
+        "id" : "6q29t5RuXxlBuqIZsOMQss",
+        "name" : "Priya Saraiya",
+        "type" : "artist",
+        "uri" : "spotify:artist:6q29t5RuXxlBuqIZsOMQss"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1mBydYMVBECdDmMfE2sEUO",
+        "id" : "1mBydYMVBECdDmMfE2sEUO",
+        "name" : "Sachin-Jigar",
+        "type" : "artist",
+        "uri" : "spotify:artist:1mBydYMVBECdDmMfE2sEUO"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1AvrE4ap4FsisEo26Yc9LP"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1AvrE4ap4FsisEo26Yc9LP",
+      "id" : "1AvrE4ap4FsisEo26Yc9LP",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273830f4fa849aea3932a19b042",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02830f4fa849aea3932a19b042",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851830f4fa849aea3932a19b042",
+        "width" : 64
+      } ],
+      "name" : "Baat Ban Jaye (From \"A Gentleman\")",
+      "release_date" : "2017-07-27",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:1AvrE4ap4FsisEo26Yc9LP"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6PtoffEX0RiktNdmCeuWkl"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6PtoffEX0RiktNdmCeuWkl",
+      "id" : "6PtoffEX0RiktNdmCeuWkl",
+      "name" : "Siddharth Basrur",
+      "type" : "artist",
+      "uri" : "spotify:artist:6PtoffEX0RiktNdmCeuWkl"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6q29t5RuXxlBuqIZsOMQss"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6q29t5RuXxlBuqIZsOMQss",
+      "id" : "6q29t5RuXxlBuqIZsOMQss",
+      "name" : "Priya Saraiya",
+      "type" : "artist",
+      "uri" : "spotify:artist:6q29t5RuXxlBuqIZsOMQss"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1mBydYMVBECdDmMfE2sEUO",
+      "id" : "1mBydYMVBECdDmMfE2sEUO",
+      "name" : "Sachin-Jigar",
+      "type" : "artist",
+      "uri" : "spotify:artist:1mBydYMVBECdDmMfE2sEUO"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 192013,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "INS181701389"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7sjKPajt4ktF2qIaANqe0d"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7sjKPajt4ktF2qIaANqe0d",
+    "id" : "7sjKPajt4ktF2qIaANqe0d",
+    "is_local" : false,
+    "name" : "Baat Ban Jaye",
+    "popularity" : 40,
+    "preview_url" : "https://p.scdn.co/mp3-preview/59cdda1c47b4f57fde39e59753f2855d23ce72b2?cid=1513a3be19ae4bef880e12e35d995b13",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:7sjKPajt4ktF2qIaANqe0d"
+  }, {
+    "album" : {
+      "album_type" : "SINGLE",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5lMNphVhMLvhFmTWiKiLA2",
+        "id" : "5lMNphVhMLvhFmTWiKiLA2",
+        "name" : "Zaeden",
+        "type" : "artist",
+        "uri" : "spotify:artist:5lMNphVhMLvhFmTWiKiLA2"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0CFZJ9jU1NkaV14kEqrFvF"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0CFZJ9jU1NkaV14kEqrFvF",
+      "id" : "0CFZJ9jU1NkaV14kEqrFvF",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273f000552e841d33510a46d847",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02f000552e841d33510a46d847",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851f000552e841d33510a46d847",
+        "width" : 64
+      } ],
+      "name" : "days",
+      "release_date" : "2021-04-23",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:0CFZJ9jU1NkaV14kEqrFvF"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5lMNphVhMLvhFmTWiKiLA2",
+      "id" : "5lMNphVhMLvhFmTWiKiLA2",
+      "name" : "Zaeden",
+      "type" : "artist",
+      "uri" : "spotify:artist:5lMNphVhMLvhFmTWiKiLA2"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 150000,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "FR59R2159805"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7xxk2elVJN3IjhbV3T8Shz"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7xxk2elVJN3IjhbV3T8Shz",
+    "id" : "7xxk2elVJN3IjhbV3T8Shz",
+    "is_local" : false,
+    "name" : "days",
+    "popularity" : 43,
+    "preview_url" : "https://p.scdn.co/mp3-preview/506d1cd65714634b661eda5eaf7d1042146bd5dc?cid=1513a3be19ae4bef880e12e35d995b13",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:7xxk2elVJN3IjhbV3T8Shz"
+  }, {
+    "album" : {
+      "album_type" : "SINGLE",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs"
+        },
+        "href" : "https://api.spotify.com/v1/artists/7qmpXeNz2ojlMl2EEfkeLs",
+        "id" : "7qmpXeNz2ojlMl2EEfkeLs",
+        "name" : "Nicky Youre",
+        "type" : "artist",
+        "uri" : "spotify:artist:7qmpXeNz2ojlMl2EEfkeLs"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x"
+        },
+        "href" : "https://api.spotify.com/v1/artists/38PzLQE4GW8o7A18oGhi0x",
+        "id" : "38PzLQE4GW8o7A18oGhi0x",
+        "name" : "dazy",
+        "type" : "artist",
+        "uri" : "spotify:artist:38PzLQE4GW8o7A18oGhi0x"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0VaHnwzDug4AcDkejYDUl5"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0VaHnwzDug4AcDkejYDUl5",
+      "id" : "0VaHnwzDug4AcDkejYDUl5",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2730ed2184bf3fb4466d623a874",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e020ed2184bf3fb4466d623a874",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048510ed2184bf3fb4466d623a874",
+        "width" : 64
+      } ],
+      "name" : "Sunroof",
+      "release_date" : "2021-12-03",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:0VaHnwzDug4AcDkejYDUl5"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs"
+      },
+      "href" : "https://api.spotify.com/v1/artists/7qmpXeNz2ojlMl2EEfkeLs",
+      "id" : "7qmpXeNz2ojlMl2EEfkeLs",
+      "name" : "Nicky Youre",
+      "type" : "artist",
+      "uri" : "spotify:artist:7qmpXeNz2ojlMl2EEfkeLs"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/38PzLQE4GW8o7A18oGhi0x"
+      },
+      "href" : "https://api.spotify.com/v1/artists/38PzLQE4GW8o7A18oGhi0x",
+      "id" : "38PzLQE4GW8o7A18oGhi0x",
+      "name" : "dazy",
+      "type" : "artist",
+      "uri" : "spotify:artist:38PzLQE4GW8o7A18oGhi0x"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 163025,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "USQX92202129"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4h4QlmocP3IuwYEj2j14p8"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4h4QlmocP3IuwYEj2j14p8",
+    "id" : "4h4QlmocP3IuwYEj2j14p8",
+    "is_local" : false,
+    "name" : "Sunroof",
+    "popularity" : 89,
+    "preview_url" : "https://p.scdn.co/mp3-preview/7c8b08cc640f6065a2daaf7d92ee49a640d8c4b8?cid=1513a3be19ae4bef880e12e35d995b13",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:4h4QlmocP3IuwYEj2j14p8"
+  }, {
+    "album" : {
+      "album_type" : "SINGLE",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL"
+        },
+        "href" : "https://api.spotify.com/v1/artists/5rQoBDKFnd1n6BkdbgVaRL",
+        "id" : "5rQoBDKFnd1n6BkdbgVaRL",
+        "name" : "Guru Randhawa",
+        "type" : "artist",
+        "uri" : "spotify:artist:5rQoBDKFnd1n6BkdbgVaRL"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1sVmXkzX2ukc6QvasrDBES",
+        "id" : "1sVmXkzX2ukc6QvasrDBES",
+        "name" : "Asees Kaur",
+        "type" : "artist",
+        "uri" : "spotify:artist:1sVmXkzX2ukc6QvasrDBES"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/5D4Ku6tdcAdwiA38FgpgCP"
+      },
+      "href" : "https://api.spotify.com/v1/albums/5D4Ku6tdcAdwiA38FgpgCP",
+      "id" : "5D4Ku6tdcAdwiA38FgpgCP",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b2734a76d7bd951c89e1ea2fe8e3",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e024a76d7bd951c89e1ea2fe8e3",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d000048514a76d7bd951c89e1ea2fe8e3",
+        "width" : 64
+      } ],
+      "name" : "Nain Ta Heere (From \"Jugjugg Jeeyo\")",
+      "release_date" : "2022-06-16",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:5D4Ku6tdcAdwiA38FgpgCP"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5rQoBDKFnd1n6BkdbgVaRL",
+      "id" : "5rQoBDKFnd1n6BkdbgVaRL",
+      "name" : "Guru Randhawa",
+      "type" : "artist",
+      "uri" : "spotify:artist:5rQoBDKFnd1n6BkdbgVaRL"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1sVmXkzX2ukc6QvasrDBES",
+      "id" : "1sVmXkzX2ukc6QvasrDBES",
+      "name" : "Asees Kaur",
+      "type" : "artist",
+      "uri" : "spotify:artist:1sVmXkzX2ukc6QvasrDBES"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 216328,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "INS182201317"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/3NpbGCDrcQTERaZb5dHhd3"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/3NpbGCDrcQTERaZb5dHhd3",
+    "id" : "3NpbGCDrcQTERaZb5dHhd3",
+    "is_local" : false,
+    "name" : "Nain Ta Heere (From \"Jugjugg Jeeyo\")",
+    "popularity" : 70,
+    "preview_url" : "https://p.scdn.co/mp3-preview/d517218db9b84d6b3474d8b28e5587feeb93afb9?cid=1513a3be19ae4bef880e12e35d995b13",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:3NpbGCDrcQTERaZb5dHhd3"
+  }, {
+    "album" : {
+      "album_type" : "SINGLE",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0L5GV6LN8SWWUWIdBbTLTZ",
+        "id" : "0L5GV6LN8SWWUWIdBbTLTZ",
+        "name" : "Shankar-Ehsaan-Loy",
+        "type" : "artist",
+        "uri" : "spotify:artist:0L5GV6LN8SWWUWIdBbTLTZ"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/0ZRVDoVuEiOxJLVTSpNFk6"
+      },
+      "href" : "https://api.spotify.com/v1/albums/0ZRVDoVuEiOxJLVTSpNFk6",
+      "id" : "0ZRVDoVuEiOxJLVTSpNFk6",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273cff978906e5901b8efacc904",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02cff978906e5901b8efacc904",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851cff978906e5901b8efacc904",
+        "width" : 64
+      } ],
+      "name" : "Dil Dhadakne Do",
+      "release_date" : "2015-05-02",
+      "release_date_precision" : "day",
+      "total_tracks" : 5,
+      "type" : "album",
+      "uri" : "spotify:album:0ZRVDoVuEiOxJLVTSpNFk6"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3eDT9fwXKuHWFvgZaaYC5v",
+      "id" : "3eDT9fwXKuHWFvgZaaYC5v",
+      "name" : "Sunidhi Chauhan",
+      "type" : "artist",
+      "uri" : "spotify:artist:3eDT9fwXKuHWFvgZaaYC5v"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 243165,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "INS181500687"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5JlZLXvZBEFD9u8OoJq6Yh"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5JlZLXvZBEFD9u8OoJq6Yh",
+    "id" : "5JlZLXvZBEFD9u8OoJq6Yh",
+    "is_local" : false,
+    "name" : "Girls Like To Swing",
+    "popularity" : 46,
+    "preview_url" : "https://p.scdn.co/mp3-preview/cd1087318b0352b6fbc7de1e01fd269d5bf1f8ee?cid=1513a3be19ae4bef880e12e35d995b13",
+    "track_number" : 4,
+    "type" : "track",
+    "uri" : "spotify:track:5JlZLXvZBEFD9u8OoJq6Yh"
+  }, {
+    "album" : {
+      "album_type" : "SINGLE",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1wRPtKGflJrBx9BmLsSwlU",
+        "id" : "1wRPtKGflJrBx9BmLsSwlU",
+        "name" : "Pritam",
+        "type" : "artist",
+        "uri" : "spotify:artist:1wRPtKGflJrBx9BmLsSwlU"
+      }, {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        "href" : "https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw",
+        "id" : "4YRxDV8wJFPHPTeXepOstw",
+        "name" : "Arijit Singh",
+        "type" : "artist",
+        "uri" : "spotify:artist:4YRxDV8wJFPHPTeXepOstw"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3rJorGgrI3Vr2oL06qCzfd"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3rJorGgrI3Vr2oL06qCzfd",
+      "id" : "3rJorGgrI3Vr2oL06qCzfd",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273ece89c7bf7d8141a1e8eef42",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02ece89c7bf7d8141a1e8eef42",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851ece89c7bf7d8141a1e8eef42",
+        "width" : 64
+      } ],
+      "name" : "Ik Vaari Aa (From \"Raabta\")",
+      "release_date" : "2017-04-21",
+      "release_date_precision" : "day",
+      "total_tracks" : 1,
+      "type" : "album",
+      "uri" : "spotify:album:3rJorGgrI3Vr2oL06qCzfd"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1wRPtKGflJrBx9BmLsSwlU",
+      "id" : "1wRPtKGflJrBx9BmLsSwlU",
+      "name" : "Pritam",
+      "type" : "artist",
+      "uri" : "spotify:artist:1wRPtKGflJrBx9BmLsSwlU"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw",
+      "id" : "4YRxDV8wJFPHPTeXepOstw",
+      "name" : "Arijit Singh",
+      "type" : "artist",
+      "uri" : "spotify:artist:4YRxDV8wJFPHPTeXepOstw"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 274687,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "INS181700712"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5lrA2NzUxmBjKr2tCZfMtl"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5lrA2NzUxmBjKr2tCZfMtl",
+    "id" : "5lrA2NzUxmBjKr2tCZfMtl",
+    "is_local" : false,
+    "name" : "Ik Vaari Aa (From \"Raabta\")",
+    "popularity" : 62,
+    "preview_url" : "https://p.scdn.co/mp3-preview/811bc69bf50be078d8c38e267fb854a76b4e43a6?cid=1513a3be19ae4bef880e12e35d995b13",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:5lrA2NzUxmBjKr2tCZfMtl"
+  }, {
+    "album" : {
+      "album_type" : "ALBUM",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        "href" : "https://api.spotify.com/v1/artists/1wRPtKGflJrBx9BmLsSwlU",
+        "id" : "1wRPtKGflJrBx9BmLsSwlU",
+        "name" : "Pritam",
+        "type" : "artist",
+        "uri" : "spotify:artist:1wRPtKGflJrBx9BmLsSwlU"
+      } ],
+      "available_markets" : [ "IN" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/1y5h6GBXEgFjBDHThikj1w"
+      },
+      "href" : "https://api.spotify.com/v1/albums/1y5h6GBXEgFjBDHThikj1w",
+      "id" : "1y5h6GBXEgFjBDHThikj1w",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b27325117ea77a6dd5f721a611a2",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e0225117ea77a6dd5f721a611a2",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d0000485125117ea77a6dd5f721a611a2",
+        "width" : 64
+      } ],
+      "name" : "Cocktail (Original Motion Picture Soundtrack)",
+      "release_date" : "2012-06-15",
+      "release_date_precision" : "day",
+      "total_tracks" : 11,
+      "type" : "album",
+      "uri" : "spotify:album:1y5h6GBXEgFjBDHThikj1w"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ"
+      },
+      "href" : "https://api.spotify.com/v1/artists/61if35zz1W11GejEkxTLEQ",
+      "id" : "61if35zz1W11GejEkxTLEQ",
+      "name" : "Benny Dayal",
+      "type" : "artist",
+      "uri" : "spotify:artist:61if35zz1W11GejEkxTLEQ"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6uskWv5K2FA0YOAYr7JOUz"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6uskWv5K2FA0YOAYr7JOUz",
+      "id" : "6uskWv5K2FA0YOAYr7JOUz",
+      "name" : "Shalmali Kholgade",
+      "type" : "artist",
+      "uri" : "spotify:artist:6uskWv5K2FA0YOAYr7JOUz"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+      },
+      "href" : "https://api.spotify.com/v1/artists/1wRPtKGflJrBx9BmLsSwlU",
+      "id" : "1wRPtKGflJrBx9BmLsSwlU",
+      "name" : "Pritam",
+      "type" : "artist",
+      "uri" : "spotify:artist:1wRPtKGflJrBx9BmLsSwlU"
+    } ],
+    "available_markets" : [ "IN" ],
+    "disc_number" : 1,
+    "duration_ms" : 269200,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "GBSGZ1200009"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/5pAo2q7eVt65OSkwYgqhHl"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/5pAo2q7eVt65OSkwYgqhHl",
+    "id" : "5pAo2q7eVt65OSkwYgqhHl",
+    "is_local" : false,
+    "name" : "Daaru Desi",
+    "popularity" : 59,
+    "preview_url" : "https://p.scdn.co/mp3-preview/ff2607d1bbf9d6fb5970d8025e7792955fa34bec?cid=1513a3be19ae4bef880e12e35d995b13",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:5pAo2q7eVt65OSkwYgqhHl"
+  }, {
+    "album" : {
+      "album_type" : "ALBUM",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6"
+        },
+        "href" : "https://api.spotify.com/v1/artists/09UmIX92EUH9hAK4bxvHx6",
+        "id" : "09UmIX92EUH9hAK4bxvHx6",
+        "name" : "Mithoon",
+        "type" : "artist",
+        "uri" : "spotify:artist:09UmIX92EUH9hAK4bxvHx6"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3jcMB9o34xcc9VlOyyZ1yx"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3jcMB9o34xcc9VlOyyZ1yx",
+      "id" : "3jcMB9o34xcc9VlOyyZ1yx",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273d5363fb37271699b514aa60b",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02d5363fb37271699b514aa60b",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851d5363fb37271699b514aa60b",
+        "width" : 64
+      } ],
+      "name" : "Shamshera",
+      "release_date" : "2022-07-07",
+      "release_date_precision" : "day",
+      "total_tracks" : 6,
+      "type" : "album",
+      "uri" : "spotify:album:3jcMB9o34xcc9VlOyyZ1yx"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/09UmIX92EUH9hAK4bxvHx6"
+      },
+      "href" : "https://api.spotify.com/v1/artists/09UmIX92EUH9hAK4bxvHx6",
+      "id" : "09UmIX92EUH9hAK4bxvHx6",
+      "name" : "Mithoon",
+      "type" : "artist",
+      "uri" : "spotify:artist:09UmIX92EUH9hAK4bxvHx6"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw",
+      "id" : "4YRxDV8wJFPHPTeXepOstw",
+      "name" : "Arijit Singh",
+      "type" : "artist",
+      "uri" : "spotify:artist:4YRxDV8wJFPHPTeXepOstw"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3ZxZ03fj3tXBZHZWzvaLSM",
+      "id" : "3ZxZ03fj3tXBZHZWzvaLSM",
+      "name" : "Neeti Mohan",
+      "type" : "artist",
+      "uri" : "spotify:artist:3ZxZ03fj3tXBZHZWzvaLSM"
+    }, {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/77tAOnDaIyO7H70yxk3bMF"
+      },
+      "href" : "https://api.spotify.com/v1/artists/77tAOnDaIyO7H70yxk3bMF",
+      "id" : "77tAOnDaIyO7H70yxk3bMF",
+      "name" : "Karan Malhotra",
+      "type" : "artist",
+      "uri" : "spotify:artist:77tAOnDaIyO7H70yxk3bMF"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 308459,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "INY092200082"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/7eNSk0grNnO7MqjLZzs6MM"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/7eNSk0grNnO7MqjLZzs6MM",
+    "id" : "7eNSk0grNnO7MqjLZzs6MM",
+    "is_local" : false,
+    "name" : "Fitoor",
+    "popularity" : 73,
+    "preview_url" : "https://p.scdn.co/mp3-preview/bac0b66cbafc40532701984b83c413035f2d1204?cid=1513a3be19ae4bef880e12e35d995b13",
+    "track_number" : 2,
+    "type" : "track",
+    "uri" : "spotify:track:7eNSk0grNnO7MqjLZzs6MM"
+  }, {
+    "album" : {
+      "album_type" : "COMPILATION",
+      "artists" : [ {
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+        },
+        "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+        "id" : "0LyfQWJT6nXafLPZqxe9Of",
+        "name" : "Various Artists",
+        "type" : "artist",
+        "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+      } ],
+      "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/album/3uuu6u13U0KeVQsZ3CZKK4"
+      },
+      "href" : "https://api.spotify.com/v1/albums/3uuu6u13U0KeVQsZ3CZKK4",
+      "id" : "3uuu6u13U0KeVQsZ3CZKK4",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://i.scdn.co/image/ab67616d0000b273c5545f737b16ad5ee767b62a",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://i.scdn.co/image/ab67616d00001e02c5545f737b16ad5ee767b62a",
+        "width" : 300
+      }, {
+        "height" : 64,
+        "url" : "https://i.scdn.co/image/ab67616d00004851c5545f737b16ad5ee767b62a",
+        "width" : 64
+      } ],
+      "name" : "Kabir Singh",
+      "release_date" : "2019-06-14",
+      "release_date_precision" : "day",
+      "total_tracks" : 9,
+      "type" : "album",
+      "uri" : "spotify:album:3uuu6u13U0KeVQsZ3CZKK4"
+    },
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG"
+      },
+      "href" : "https://api.spotify.com/v1/artists/6WOdPJmexxFINcKMkP2jMG",
+      "id" : "6WOdPJmexxFINcKMkP2jMG",
+      "name" : "Sachet Tandon",
+      "type" : "artist",
+      "uri" : "spotify:artist:6WOdPJmexxFINcKMkP2jMG"
+    } ],
+    "available_markets" : [ "AD", "AE", "AR", "AT", "AU", "BE", "BG", "BH", "BO", "BR", "CA", "CH", "CL", "CO", "CR", "CY", "CZ", "DE", "DK", "DO", "DZ", "EC", "EE", "EG", "ES", "FI", "FR", "GB", "GR", "GT", "HK", "HN", "HU", "ID", "IE", "IL", "IN", "IS", "IT", "JO", "JP", "KW", "LB", "LI", "LT", "LU", "LV", "MA", "MC", "MT", "MX", "MY", "NI", "NL", "NO", "NZ", "OM", "PA", "PE", "PH", "PL", "PS", "PT", "PY", "QA", "RO", "SA", "SE", "SG", "SK", "SV", "TH", "TN", "TR", "TW", "US", "UY", "VN", "ZA" ],
+    "disc_number" : 1,
+    "duration_ms" : 371790,
+    "explicit" : false,
+    "external_ids" : {
+      "isrc" : "INS181901739"
+    },
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/track/4yMbbysldl7E3WgiaugnwM"
+    },
+    "href" : "https://api.spotify.com/v1/tracks/4yMbbysldl7E3WgiaugnwM",
+    "id" : "4yMbbysldl7E3WgiaugnwM",
+    "is_local" : false,
+    "name" : "Bekhayali",
+    "popularity" : 66,
+    "preview_url" : "https://p.scdn.co/mp3-preview/d630df0fa90637283c41caf4d53277fb0e0793b6?cid=1513a3be19ae4bef880e12e35d995b13",
+    "track_number" : 1,
+    "type" : "track",
+    "uri" : "spotify:track:4yMbbysldl7E3WgiaugnwM"
+  } ],
+  "total" : 50,
+  "limit" : 50,
+  "offset" : 49,
+  "href" : "https://api.spotify.com/v1/me/top/tracks?limit=50&offset=49",
+  "previous" : null,
+  "next" : null
+}

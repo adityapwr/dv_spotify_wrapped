@@ -1,9 +1,12 @@
 import { Card } from "antd";
+import { useState, useEffect } from "react";
 import ColumnChart from "../charts/ColumnChart";
 import UnknownTrend from "../charts/UnkownTrend";
+
 const toMins = (ms) => {
   return Math.floor(ms / 1000 / 60);
 };
+
 const transformData = (data) => {
   const x = "trackName";
   const y = "msPlayed";
@@ -24,18 +27,38 @@ const transformData = (data) => {
     })
     .sort((a, b) => b.y - a.y)
     .slice(0, 10);
-    return [
-      {
-        //   name: transformed_data_array.map((d) => d.x),
-        data: transformed_data_array,
-      },
-    ];
+  return [
+    {
+      //   name: transformed_data_array.map((d) => d.x),
+      data: transformed_data_array,
+    },
+  ];
 };
-const SongTrend = ({ title, data = [] }) => {
+
+const SongTrend = ({ title, data = [], setUrl = (f) => f }) => {
+  const [filter, setFilter] = useState();
+
+  useEffect(() => {
+    if (filter) {
+      const transform = transformData(data);
+      const key = transform[0].data[filter].x;
+      // find uri for key from data
+      const uri = data.find((d) => d.trackName === key).trackUrl;
+      console.log(uri);
+      setUrl(uri);
+    }
+  }, [filter]);
+
+  // clear filter in data change and set url to first song
+  // useEffect(() => {
+  //   setFilter();
+  //   setUrl(data[0].trackUrl);
+  // }, [data]);
+
   return (
     <Card title={title} size="small">
       {/* <ColumnChart data={transformData(data)} /> */}
-      <UnknownTrend data={transformData(data)} />
+      <UnknownTrend data={transformData(data)} setFilter={setFilter} />
     </Card>
   );
 };

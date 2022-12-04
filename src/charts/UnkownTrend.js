@@ -1,7 +1,7 @@
-import React from "react";
+import React, {useEffect} from "react";
 import ReactApexChart from "react-apexcharts";
 
-const YearRelease = ({ data = [], filter, setFilter = (f) => f }) => {
+const YearRelease = ({ data = [], setFilter = (f) => f }) => {
   const options = {
     legend: {
       show: false,
@@ -22,8 +22,8 @@ const YearRelease = ({ data = [], filter, setFilter = (f) => f }) => {
       },
       events: {
         dataPointSelection: (event, chartContext, config) => {
-          // console.log(config.dataPointIndex);
-          setFilter(data[config.dataPointIndex].spotify_uri);
+          console.log(config.dataPointIndex);
+          setFilter(config.dataPointIndex);
         },
       },
     },

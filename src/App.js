@@ -1,7 +1,6 @@
 import "./App.css";
 import { useState } from "react";
 import { Row, Col } from "antd";
-
 import TotalPlayed from "./components/TotalPlayed";
 import MostPlayed from "./components/MostPlayed";
 import Weeklytrend from "./components/WeeklyTrend";
@@ -10,7 +9,7 @@ import About from "./components/About";
 import ActiveDays from "./components/ActiveDays";
 import Spotify from "react-spotify-embed";
 
-import SpotifyData from "./data/yash_history.json";
+import SpotifyData from "./data/spotify_data.json";
 
 const style = {
   // background: "grey",
@@ -18,6 +17,9 @@ const style = {
 };
 const App = () => {
   const [data, setData] = useState(SpotifyData);
+  const [url, setUrl] = useState(
+    "https://open.spotify.com/track/0ecW7IqLKhzKTPeqLSNc0V?si=3dcbb24a79ac446e"
+  );
   // console.log(data)
   return (
     <Row>
@@ -43,6 +45,7 @@ const App = () => {
               title="Do you know you most trending songs?"
               data={data}
               setData={setData}
+              setUrl={setUrl}
             />
           </Col>
         </Row>
@@ -58,15 +61,7 @@ const App = () => {
             /> */}
 
             {/* <Spotify uri="spotify:playlist:37i9dQZF1DXcBWIGoYBM5M" /> */}
-            <Spotify
-              wide
-              view="coverart"
-              link={
-                data && data[0].spotify_uri
-                  ? data[0].spotify_uri
-                  : "https://open.spotify.com/track/12njaVYvkZy0Q56shqRasT"
-              }
-            />
+            <Spotify wide view="coverart" link={url} />
           </Col>
           <Col span={24}>
             <ActiveDays

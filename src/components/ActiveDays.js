@@ -2,7 +2,7 @@ import { useState, useEffect } from "react";
 import { Card } from "antd";
 
 import HeatMap from "../charts/HeatMap";
-import SpotifyData from "../data/yash_history.json";
+import SpotifyData from "../data/spotify_data.json";
 
 const ActiveDays = ({ height, title, data, setData }) => {
   const [filter, setFilter] = useState({});

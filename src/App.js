@@ -1,88 +1,98 @@
 import "./App.css";
-import { Layout, Row, Col, Breadcrumb, Menu, Radio } from "antd";
-import { Typography } from "antd";
-import Main from "./Layout/main";
-import SpotifyPlayer from "react-spotify-web-playback";
+import { useState } from "react";
+import { Row, Col } from "antd";
 
-const { Header, Content, Footer, Sider } = Layout;
-const { Title } = Typography;
+import TotalPlayed from "./components/TotalPlayed";
+import MostPlayed from "./components/MostPlayed";
+import Weeklytrend from "./components/WeeklyTrend";
+import SongTrend from "./components/SongTrend";
+import About from "./components/About";
+import ActiveDays from "./components/ActiveDays";
+import Spotify from "react-spotify-embed";
 
-function App() {
+import SpotifyData from "./data/yash_history.json";
+
+const style = {
+  // background: "grey",
+  padding: 5,
+};
+const App = () => {
+  const [data, setData] = useState(SpotifyData);
+  // console.log(data)
   return (
-    <Layout className="layout">
-      <Header>
-        <div className="logo" />
-        {/* <> */}
-          {/* <Title level={5} style={{ color: "white" }}>
-            Top Chart
-          </Title> */}
-          {/* <Radio.Group
-            defaultValue="a"
-            style={{ marginTop: 16, marginRight: 6, marginLeft: "35vw" }}
-          >
-            <Radio.Button value="a">Top Artist</Radio.Button>
-            <Radio.Button value="b">Top Tracks</Radio.Button>
-          </Radio.Group>
-        </> */}
-        {/* <> */}
-          {/* <Title level={5} style={{ color: "white" }}>
-            Time Duration
-          </Title> */}
-          {/* <Radio.Group
-            defaultValue="a"
-            style={{ marginTop: 16, marginRight: 6 }}
-          >
-            <Radio.Button value="a">Last Week</Radio.Button>
-            <Radio.Button value="b">Last Year</Radio.Button>
-            <Radio.Button value="c">All Time</Radio.Button>
-          </Radio.Group> */}
-        {/* </> */}
-        {/* <>
-          <span style={{ color: "white", marginRight: 6 }}>12 FOLLOWERS</span>
-          <span style={{ color: "white", marginRight: 6 }}>Aditya Pawar</span>
-        </> */}
-      </Header>
-      <Content
-        style={{
-          padding: "0 50px",
-        }}
-      >
-        {/* <Breadcrumb
-          style={{
-            margin: "16px 0",
-          }}
-        >
-          <Breadcrumb.Item>Home</Breadcrumb.Item>
-          <Breadcrumb.Item>List</Breadcrumb.Item>
-          <Breadcrumb.Item>App</Breadcrumb.Item>
-        </Breadcrumb> */}
-        <div className="site-layout-content" style={{ marginTop: 16 }}>
-          <Main />
-        </div>
-      </Content>
+    <Row>
+      <Col span={18}>
+        <Row style={style}>
+          <Col span={12}>
+            <About title="Spotify Rewind 2022 is here! See your top songs, artists, and more" />
+          </Col>
+          <Col span={12} style={style}>
+            <TotalPlayed
+              height={100}
+              title="Do you know how many hours you spend groving?"
+              data={data}
+              setData={setData}
+            />
+          </Col>
+        </Row>
+        {/* <Row style={{ height: "30vh" }}></Row> */}
 
-      <SpotifyPlayer
-        // ...
-        token="BQDoLHj_cEU3B-0aoMQ7tq5C3RD6SderZSh7e_WkNrSyJT4gJw-Fw1VVbXI6C5KAg99hCSqW2CM5f3Ffs8MbJfqkMmN67U9QbayAEgRWXF7MudHcqJL0ddLJpELkiU5ZruJGbN5BLAOYV7oKey4PIqCu0jSc8MbpKC5fQdg-Alx9weBJaOM8YPl8ARW_uzDXiNDf5n6cTGkbgtlvMsDhAGcXT_PAsQ407G_j8SnQFeGr"
-        styles={{
-          activeColor: "#fff",
-          bgColor: "#333",
-          color: "#fff",
-          loaderColor: "#fff",
-          sliderColor: "#1cb954",
-          trackArtistColor: "#ccc",
-          trackNameColor: "#fff",
-        }}
-      />
-      <Footer
-        style={{
-          textAlign: "center",
-        }}
-      >
-        Jio Institute AI&DS@2022 Created by Group 14 Data Visulalization
-      </Footer>
-    </Layout>
+        <Row style={{ height: "40vh" }}>
+          <Col span={24} style={style}>
+            <SongTrend
+              title="Do you know you most trending songs?"
+              data={data}
+              setData={setData}
+            />
+          </Col>
+        </Row>
+      </Col>
+      <Col span={6} style={{ ...style, height: "100vh" }}>
+        <Row>
+          <Col span={24} style={style}>
+            {/* <TotalPlayed
+              height={100}
+              title="Do you know how many hours you spend groving?"
+              data={data}
+              setData={setData}
+            /> */}
+
+            {/* <Spotify uri="spotify:playlist:37i9dQZF1DXcBWIGoYBM5M" /> */}
+            <Spotify
+              wide
+              view="coverart"
+              link={
+                data && data[0].spotify_uri
+                  ? data[0].spotify_uri
+                  : "https://open.spotify.com/track/12njaVYvkZy0Q56shqRasT"
+              }
+            />
+          </Col>
+          <Col span={24}>
+            <ActiveDays
+              title="Do you know how many days you have been active?"
+              data={data}
+              setData={setData}
+            />
+          </Col>
+          <Col span={24} style={style}>
+            <MostPlayed
+              title="When do you miss me most?"
+              data={data}
+              setData={setData}
+            />
+          </Col>
+        </Row>
+      </Col>
+    </Row>
   );
-}
+};
 
 export default App;
+
+// // Needed Updates:
+// No of songs played
+// Song Repeat count
+// Most repeated song
+// Show labels for polar chart and heat map
+// Monthly time spend like on insta

@@ -48,7 +48,11 @@ const TransformData = (data) => {
 };
 const MostPlayed = ({ title, data }) => {
   return (
-    <Card title={title} size="small">
+    <Card
+      title={title}
+      size="small"
+      style={{ background: "#f0f2f5", padding: 0 }}
+    >
       <PolarAreaChart data={TransformData(data)} />
     </Card>
   );

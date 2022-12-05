@@ -56,7 +56,7 @@ const YearRelease = ({ data = [], setFilter = (f) => f }) => {
         series={data}
         type="treemap"
         height={600}
-        width={800}
+        width={750}
       />
     </div>
   );

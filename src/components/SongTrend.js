@@ -56,7 +56,7 @@ const SongTrend = ({ title, data = [], setUrl = (f) => f }) => {
   // }, [data]);
 
   return (
-    <Card title={title} size="small">
+    <Card title={title} size="small" style={{background: "#f0f2f5", padding: 0}}>
       {/* <ColumnChart data={transformData(data)} /> */}
       <UnknownTrend data={transformData(data)} setFilter={setFilter} />
     </Card>

@@ -122,6 +122,7 @@ const ActiveDays = ({ height, title, data, setData }) => {
       title={title}
       //   extra={<a href="#">More</a>}
       // style={height? { height: height } : undefined}
+      style={{ background: "#f0f2f5", padding: 0 }}
     >
       <HeatMap
         data={song_count_by_date_month(data)}

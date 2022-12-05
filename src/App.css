@@ -20,3 +20,9 @@
   float: right;
   margin: 16px 0 16px 24px;
 }
+
+/* Set whole backgroud to grey */
+
+.app {
+  background-color: #f0f2f5;
+}

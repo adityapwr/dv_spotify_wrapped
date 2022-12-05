@@ -1,4 +1,4 @@
-import React, {useEffect} from "react";
+import React, { useEffect } from "react";
 import ReactApexChart from "react-apexcharts";
 
 const YearRelease = ({ data = [], setFilter = (f) => f }) => {
@@ -12,6 +12,26 @@ const YearRelease = ({ data = [], setFilter = (f) => f }) => {
         fontSize: "22px",
         fontFamily: "Helvetica, Arial, sans-serif",
         fontWeight: "bold",
+      },
+    },
+    colors: [
+      "#3B93A5",
+      "#F7B844",
+      "#ADD8C7",
+      "#EC3C65",
+      "#CDD7B6",
+      "#C1F666",
+      "#D43F97",
+      "#1E5D8C",
+      "#421243",
+      "#7F94B0",
+      "#EF6537",
+      "#C0ADDB",
+    ],
+    plotOptions: {
+      treemap: {
+        distributed: true,
+        enableShades: false,
       },
     },
     chart: {
@@ -35,8 +55,8 @@ const YearRelease = ({ data = [], setFilter = (f) => f }) => {
         options={options}
         series={data}
         type="treemap"
-        height={400}
-        width={1100}
+        height={600}
+        width={800}
       />
     </div>
   );

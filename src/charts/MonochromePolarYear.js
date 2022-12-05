@@ -10,6 +10,7 @@ const PolarAreaChart = ({ data = { data: [], labels: [] } }) => {
     labels: data.labels,
     fill: {
       opacity: 1,
+      colors: ["#FFBB21", "#FCF187", "#91CEFF", "#0051CA", "#090089"],
     },
     stroke: {
       width: 1,
@@ -29,13 +30,6 @@ const PolarAreaChart = ({ data = { data: [], labels: [] } }) => {
         spokes: {
           strokeWidth: 0,
         },
-      },
-    },
-    theme: {
-      monochrome: {
-        enabled: true,
-        shadeTo: "dark",
-        shadeIntensity: 0.6,
       },
     },
   };

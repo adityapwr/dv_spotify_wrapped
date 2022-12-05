@@ -23,7 +23,7 @@ const App = () => {
   // console.log(data)
   return (
     <Row>
-      <Col span={18}>
+      <Col span={16}>
         <Row style={style}>
           <Col span={12}>
             <About title="Spotify Rewind 2022 is here! See your top songs, artists, and more" />
@@ -50,7 +50,7 @@ const App = () => {
           </Col>
         </Row>
       </Col>
-      <Col span={6} style={{ ...style, height: "100vh" }}>
+      <Col span={8} style={{ ...style, height: "100vh" }}>
         <Row>
           <Col span={24} style={style}>
             {/* <TotalPlayed

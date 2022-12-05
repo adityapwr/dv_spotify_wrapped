@@ -21,11 +21,11 @@ const TransformData = (data) => {
   // Return the time bin trend over the last 12 months
   const x = "endTime";
   const time_trend = {
-    late_night: 0,
     morning: 0,
     afternoon: 0,
     evening: 0,
     night: 0,
+    late_night: 0,
   };
   data.forEach(function (d) {
     const hour = parseInt(utc_to_ist(d[x].split(" ")[1]));

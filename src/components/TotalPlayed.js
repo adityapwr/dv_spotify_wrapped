@@ -84,36 +84,36 @@ const App = ({ height, title, data }) => {
   return (
     <List
       size="small"
-      header={title}
+      header={<Typography.Text strong>{title}</Typography.Text>}
       //   extra={<a href="#">More</a>}
       // style={height? { height: height } : undefined}
     >
       <Row>
         <Col span={12}>
           <List.Item>
-            <Typography.Text strong>Playback Time: </Typography.Text>
+            <Typography.Text strong>🎵 Playback Time: </Typography.Text>
             <Typography.Text>{totalPlayedTime(data)} Hrs</Typography.Text>
           </List.Item>
           <List.Item>
-            <Typography.Text strong>Active Days: </Typography.Text>
+            <Typography.Text strong>📅 Active Days: </Typography.Text>
             <Typography.Text>{totalActiveDays(data)}</Typography.Text>
-          </List.Item>
-          <List.Item>
-            <Typography.Text strong>Active Month: </Typography.Text>
-            <Typography.Text>{mostActiveMonth(data)}</Typography.Text>
           </List.Item>
         </Col>
         <Col span={12}>
           <List.Item>
-            <Typography.Text strong>Total Songs: </Typography.Text>
+            <Typography.Text strong>🎵 Total Songs: </Typography.Text>
             <Typography.Text>{totalSongsPlayed(data)}</Typography.Text>
           </List.Item>
           <List.Item>
-            <Typography.Text strong>Max Repeat: </Typography.Text>
-            <Typography.Text>{totalRepeatSongs(data)}</Typography.Text>
+            <Typography.Text strong>📅 Active Month: </Typography.Text>
+            <Typography.Text>{mostActiveMonth(data)}</Typography.Text>
           </List.Item>
         </Col>
       </Row>
+      <List.Item>
+        <Typography.Text strong>🔁 Most Repeat: </Typography.Text>
+        <Typography.Text>{totalRepeatSongs(data)}</Typography.Text>
+      </List.Item>
     </List>
   );
 };

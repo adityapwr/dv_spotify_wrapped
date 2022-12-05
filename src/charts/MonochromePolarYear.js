@@ -8,13 +8,17 @@ const PolarAreaChart = ({ data = { data: [], labels: [] } }) => {
       type: "polarArea",
     },
     labels: data.labels,
+    colors: ["#FCF187", "#FFBB21", "#91CEFF", "#0051CA", "#090089"],
     fill: {
       opacity: 1,
-      colors: ["#FFBB21", "#FCF187", "#91CEFF", "#0051CA", "#090089"],
+      // colors: ["#FCF187", "#FFBB21", "#91CEFF", "#0051CA", "#090089"],
     },
+    // dataLabels: {
+    //   colors: ["#FCF187", "#FFBB21", "#91CEFF", "#0051CA", "#090089"],
+    // },
     stroke: {
       width: 1,
-      colors: ["#fff"],
+      colors: ["#FCF187", "#FFBB21", "#91CEFF", "#0051CA", "#090089"],
     },
     yaxis: {
       show: false,

@@ -25,12 +25,12 @@ const App = () => {
     <div className="app">
       <Row>
         <Col span={8}>
-          <About title="Spotify Rewind 2022 is here! See your top songs, artists, and more" />
+          <About title="Spotify Rewind 2022! Your top songs, trends and more 🎧🎵🤘" />
         </Col>
         <Col span={8} style={style}>
           <TotalPlayed
             height={100}
-            title="Here are some stats for 2022!!!"
+            title="📊 Here are some stats for 2022!!!"
             data={data}
             setData={setData}
           />
@@ -40,7 +40,7 @@ const App = () => {
             wide
             view="coverart"
             link={url}
-            style={{ height: 180, margin: 2 }}
+            style={{ height: 180, margin: 2, marginTop: 5 }}
           />
         </Col>
       </Row>
@@ -48,7 +48,7 @@ const App = () => {
       <Row>
         <Col span={12}>
           <SongTrend
-            title="Do you know you most trending songs?"
+            title="📈 Do you know you most trending songs?"
             data={data}
             setData={setData}
             setUrl={setUrl}
@@ -58,14 +58,14 @@ const App = () => {
           <Row>
             <Col span={24}>
               <ActiveDays
-                title="Do you know how many days you have been active?"
+                title="📅 Checkout your streak!"
                 data={data}
                 setData={setData}
               />
             </Col>
             <Col span={24}>
               <MostPlayed
-                title="When do you miss me most?"
+                title="🕰️ What time of day you're most active?"
                 data={data}
                 setData={setData}
               />

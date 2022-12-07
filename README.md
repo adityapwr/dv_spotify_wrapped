@@ -1,3 +1,13 @@
+```
+Group 14
+```
+
+1. App.js is the starting point - Layout of the dashboard, Data State of the app
+
+2. Components folder has the data transformation logic
+
+3. Charts folder has the charts for app 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

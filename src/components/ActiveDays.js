@@ -3,7 +3,10 @@ import { Card } from "antd";
 
 import HeatMap from "../charts/HeatMap";
 import SpotifyData from "../data/spotify_data.json";
+// import RonakData from "../data/ronak.json";
 
+
+// This component is used to show the heatmap of the days the user was active
 const ActiveDays = ({ height, title, data, setData }) => {
   const [filter, setFilter] = useState({});
 
@@ -28,6 +31,7 @@ const ActiveDays = ({ height, title, data, setData }) => {
     }
   }, [filter]);
 
+  // Transform the data into a format that the heatmap can use
   const song_count_by_date_month = (data) => {
     //  {
     //     "endTime": "2022-09-17 10:18",
@@ -73,46 +77,6 @@ const ActiveDays = ({ height, title, data, setData }) => {
           ),
         };
       });
-    return transformed_data;
-  };
-
-  const song_count_by_month_data = (data) => {
-    const numeric_month_map = {
-      "01": "Jan",
-      "02": "Feb",
-      "03": "Mar",
-      "04": "Apr",
-      "05": "May",
-      "06": "Jun",
-      "07": "Jul",
-      "08": "Aug",
-      "09": "Sep",
-      10: "Oct",
-      11: "Nov",
-      12: "Dec",
-    };
-    let song_count = {};
-    data.forEach((song) => {
-      const date = song.endTime.split(" ")[0];
-      const month = song.endTime.split("-")[1];
-      if (song_count[date] === undefined) {
-        song_count[date] = {};
-      }
-      if (song_count[date][month] === undefined) {
-        song_count[date][month] = 1;
-      } else {
-        song_count[date][month] += 1;
-      }
-    });
-    // Transform the data into a format that the heatmap can use
-    const transformed_data = Object.keys(song_count).map((date) => {
-      return {
-        name: date,
-        data: Object.keys(song_count[date]).map(
-          (month) => song_count[date][month]
-        ),
-      };
-    });
     return transformed_data;
   };
 

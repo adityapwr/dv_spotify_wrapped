@@ -8,6 +8,7 @@ const App = ({ height, title, data }) => {
     return Math.floor(total_ms / 1000 / 60 / 60);
   };
 
+  //  Total Active Days
   const totalActiveDays = (data) => {
     const date_map = {};
     data.forEach((d) => {
@@ -17,6 +18,7 @@ const App = ({ height, title, data }) => {
     return Object.keys(date_map).length;
   };
 
+  //  Most Active Month 
   const mostActiveMonth = (data) => {
     const numeric_month_map = {
       "01": "Jan",

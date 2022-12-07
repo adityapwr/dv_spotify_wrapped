@@ -11,6 +11,8 @@ const utc_to_ist = (utc_hour_time) => {
 
 };
 
+
+// transform data to morning afternoon evening night late_night
 const TransformData = (data) => {
   //     //   {
   //     "endTime": "2022-09-17 10:18",

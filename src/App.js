@@ -3,19 +3,22 @@ import { useState } from "react";
 import { Row, Col } from "antd";
 import TotalPlayed from "./components/TotalPlayed";
 import MostPlayed from "./components/MostPlayed";
-import Weeklytrend from "./components/WeeklyTrend";
+// import Weeklytrend from "./components/WeeklyTrend";
 import SongTrend from "./components/SongTrend";
 import About from "./components/About";
 import ActiveDays from "./components/ActiveDays";
 import Spotify from "react-spotify-embed";
 
 import SpotifyData from "./data/spotify_data.json";
+// import RonakData from './data/ronak.json'
 
 const style = {
   // background: "grey",
   padding: 5,
 };
+// Data Transformation happens in the compenents. This is the framework for the app
 const App = () => {
+  // Setting Data for app
   const [data, setData] = useState(SpotifyData);
   const [url, setUrl] = useState(
     "https://open.spotify.com/track/476CV6n8OfNmlw82HXcgfA"

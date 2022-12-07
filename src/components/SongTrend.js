@@ -7,6 +7,7 @@ const toMins = (ms) => {
   return Math.floor(ms / 1000 / 60);
 };
 
+// transform data to [{x: "trackName", y: "msPlayed"}]
 const transformData = (data) => {
   const x = "trackName";
   const y = "msPlayed";
